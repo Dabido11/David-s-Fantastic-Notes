@@ -56,4 +56,5 @@ Bissau would be UTC+0 (for reference)
 ## Lesson 3 
 Today, we're practicing Exercise 7C in the Cambridge Text Book. This is referred to as Page 353.
 
-
+##### Answers
+1. South Australia, New South Wales (NSW), Victoria (VIC), Australian Capital Territory (ACT), and Tasmania (TAS) are the Australian states that use daylight saving time.
