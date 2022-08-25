@@ -9,3 +9,5 @@ Well, I've been wanting to try Obsidian because it sounds interesting and becaus
 ### School Lifestyle
 [[School Info]]
 
+### Personal Lifestyle
+right now, nothing's here.
