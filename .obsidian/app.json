@@ -3,5 +3,6 @@
   "readableLineLength": false,
   "foldHeading": true,
   "showLineNumber": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "alwaysUpdateLinks": true
 }

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "079cb39d32af238a",
+        "id": "4d48f59015c021f2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Welcome to David's Notes.md",
+            "file": "school/2022/maths/Time.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome to David's Notes.md",
+                "file": "school/2022/maths/Time.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome to David's Notes.md",
+                "file": "school/2022/maths/Time.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,25 +117,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome to David's Notes.md"
+                "file": "school/2022/maths/Time.md"
               }
             }
+          },
+          {
+            "id": "9de77c360afe1aea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "079cb39d32af238a",
+  "active": "4d48f59015c021f2",
   "lastOpenFiles": [
-    "202208252055.md",
+    "school/2022/maths/Time.md",
     "Welcome to David's Notes.md",
+    "Recording 20220825211314.webm",
+    "school/2022/english/text analysis/Hitler's Daughter - Term3.md",
+    "school/2022/hsie/Placeholder.md",
+    "school/School Info.md",
+    "202208252055.md",
     "Recording 20220825205501.webm",
-    "school/maths/time (lesson 1-2).md",
-    "school/english/text analysis/hitler's daughter.md",
-    "school/hsie/Untitled 1.md",
     "Testing Obsidian.md"
   ]
 }
