@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "966e81824c0d96d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9d82f3de340dbd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Welcome to David's Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac4d9fff5db639f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7dffcc2b414cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5271e1b88a7bb250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5396de7f9eab4808",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5006516c7f74d879",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ae2fca655e59c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52d8f113345c14b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1e315879e32a29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome to David's Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76dbf3f5d885a161",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome to David's Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "454e4f1d2d4ab5b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9be345040efdf30c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome to David's Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d9d82f3de340dbd2",
+  "lastOpenFiles": [
+    "Welcome to David's Notes.md",
+    "school/maths/time (lesson 1-2).md",
+    "school/english/text analysis/hitler's daughter.md",
+    "school/hsie/Untitled 1.md",
+    "Testing Obsidian.md"
+  ]
+}
