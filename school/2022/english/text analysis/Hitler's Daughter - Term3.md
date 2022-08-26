@@ -98,3 +98,4 @@ Characters
 
 5.  How had all the young men joining the army impact the running of the farm?
 -   There were only old mean and children left.
+
