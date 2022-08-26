@@ -8,3 +8,5 @@ As I progress into Year 7 2022, I have decided to start being more productive, o
 [[Placeholder]]
 #### Maths
 [[Time]]
+#### Science
+[[Famous Scientist]]

@@ -7,7 +7,7 @@ Well, I've been wanting to try Obsidian because it sounds interesting and becaus
 ## Table of Contents
 
 ### School Lifestyle
-[[School Info]]
+[[School -- Index]]
 
 ### Personal Lifestyle
 right now, nothing's here.
