@@ -1,2 +1,0 @@
-# SuperJourneys: Abaddon
-## Prologue

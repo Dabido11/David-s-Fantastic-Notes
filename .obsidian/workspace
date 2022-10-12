@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "personal/narratives/SuperJourneys, The Series/BK1, Callum.md",
+            "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/narratives/SuperJourneys, The Series/BK1, Callum.md",
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/narratives/SuperJourneys, The Series/BK1, Callum.md",
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/narratives/SuperJourneys, The Series/BK1, Callum.md"
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md"
               }
             }
           },
@@ -139,15 +139,15 @@
   },
   "active": "4d48f59015c021f2",
   "lastOpenFiles": [
-    "personal/narratives/SuperJourneys, The Series/SJ-Index.md",
-    "personal/narratives/SuperJourneys, The Series/BK1, Callum.md",
-    "personal/narratives/SuperJourneys, The Series/BK2, Inverted.md",
-    "personal/narratives/SuperJourneys, The Series/BK3, Abaddon.md",
-    "Index.md",
-    "school/School -- Index.md",
-    "school/2022/capa/Untitled.md",
-    "school/2022/english/text analysis/Hitler's Daughter - Term3.md",
-    "school/2022/science/Famous Scientist.md",
-    "school/2022/maths/Time.md"
+    "personal/narratives/Meshos, The Series/recap/RC-Index.md",
+    "personal/narratives/Meshos, The Series/recap/Callum.md",
+    "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
+    "personal/narratives/Narratives Index.md",
+    "personal/narratives/Meshos, The Series/MS-Index.md",
+    "personal/narratives/Meshos, The Series/BK6, Ace; All the Suits.md",
+    "personal/narratives/Meshos, The Series/BK5, Jacob; Finding Purpose.md",
+    "personal/narratives/Meshos, The Series/BK2, Inverted; Messenger on A Mission.md",
+    "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md",
+    "personal/narratives/Meshos, The Series/BK3, Abaddon; Back from The Down Under.md"
   ]
 }
