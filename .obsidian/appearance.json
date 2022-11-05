@@ -2,5 +2,6 @@
   "theme": "system",
   "cssTheme": "Primary",
   "translucency": false,
-  "monospaceFontFamily": "Cascadia Code"
+  "monospaceFontFamily": "Cascadia Code",
+  "accentColor": ""
 }
