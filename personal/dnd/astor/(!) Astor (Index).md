@@ -8,9 +8,15 @@ There are five nations in Astor, they are:
 * [[(4) Meshos]], the nation of Combat & Magic
 * [[(5) Uthal]], the nation that unites them all, the capital of Astor
 
+# All Official Shops
+* Town Blacksmith
+  > Provides most weapons, tools, and other items.
+* General Store
+  > Provides necessities such as adventuring gear, and other items.
+
 # All Homebrew Features
 ### Magic's Blessing
-An enchantment system to enchant items & weapons that are available and owned. 
+An enchantment system to enchant items & weapons that are available and owned. **Can only be used in a Wizards' Guild tower.**
 * **You must own the weapon type and have in-game knowledge of the enchantment.**
 * **The enchantment will cost 500 gp to start, then double every enchantment.**
 * **Very rare enchantments can only be done two times.**
