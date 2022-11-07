@@ -1,7 +1,8 @@
 {
   "theme": "system",
-  "cssTheme": "Primary",
+  "cssTheme": "Things",
   "translucency": false,
   "monospaceFontFamily": "Cascadia Code",
-  "accentColor": ""
+  "accentColor": "",
+  "interfaceFontFamily": "Karla"
 }

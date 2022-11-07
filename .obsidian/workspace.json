@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3626f50d8710716d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,31 +128,23 @@
                 "file": "personal/dnd/astor/Uthal (5).md"
               }
             }
-          },
-          {
-            "id": "9de77c360afe1aea",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3626f50d8710716d",
+  "active": "4d48f59015c021f2",
   "lastOpenFiles": [
-    "personal/dnd/astor/Gloria (1).md",
-    "personal/dnd/astor/Ashein (2).md",
-    "personal/dnd/astor/Astrium (3).md",
-    "personal/dnd/astor/Uthal (5).md",
     "personal/dnd/astor/Meshos (4).md",
+    "personal/dnd/astor/Astrium (3).md",
+    "personal/dnd/astor/Ashein (2).md",
+    "personal/dnd/astor/Gloria (1).md",
     "personal/dnd/astor/Astor (Index).md",
+    "personal/dnd/astor/Uthal (5).md",
     "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
     "personal/narratives/Meshos, The Series/BK5, Jacob; Finding Purpose.md",
     "personal/narratives/Meshos, The Series/BK6, Ace; All the Suits.md",
