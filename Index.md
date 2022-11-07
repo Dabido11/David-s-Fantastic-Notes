@@ -4,7 +4,7 @@ Welcome to my little hub of notes on Obsidian!
 ## Table of Contents
 
 ### School Lifestyle ☕
-[[School -- Index]]
+Unavailable for this time.
 
 ### Personal Lifestyle 🍵
 ### Narratives
