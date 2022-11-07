@@ -17,8 +17,8 @@
   "zk-prefixer",
   "outline",
   "word-count",
+  "slides",
   "audio-recorder",
-  "file-recovery",
-  "publish",
-  "sync"
+  "workspaces",
+  "file-recovery"
 ]
