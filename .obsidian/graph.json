@@ -5,47 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:school/2022/maths",
+      "query": "path:personal/dnd",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:school/2022/english",
+      "query": "path:/index",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
-    },
-    {
-      "query": "path:school/2022/hsie",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "path:/school",
-      "color": {
-        "a": 1,
-        "rgb": 14048407
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.003,
   "lineSizeMultiplier": 1.003,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "centerStrength": 0.0333333333333333,
+  "repelStrength": 7.08333333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.1857515118442141,
+  "linkDistance": 208,
+  "scale": 0.21891733491840748,
   "close": true
 }

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "cc6888afae29f410",
+        "id": "56f427a03db01c73",
         "type": "tabs",
         "children": [
           {
-            "id": "4d48f59015c021f2",
+            "id": "46dd67aa85ba59ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md",
+                "file": "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b1d2a20c9934837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md",
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md",
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md"
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md"
               }
             }
           },
@@ -145,15 +158,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d48f59015c021f2",
+  "active": "0b1d2a20c9934837",
   "lastOpenFiles": [
-    "personal/dnd/astor/(1) Gloria.md",
-    "personal/dnd/astor/(2) Ashein.md",
-    "personal/dnd/astor/(4) Meshos.md",
-    "personal/dnd/astor/(5) Uthal.md",
-    "personal/dnd/astor/(3) Astrium.md",
-    "personal/dnd/astor/(!) Astor (Index).md",
     "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
+    "personal/dnd/astor/(2) Ashein.md",
+    "personal/dnd/astor/(3) Astrium.md",
+    "personal/dnd/astor/(1) Gloria.md",
+    "personal/dnd/astor/(5) Uthal.md",
+    "personal/dnd/astor/(4) Meshos.md",
+    "personal/dnd/astor/(!) Astor (Index).md",
     "personal/narratives/Meshos, The Series/recap/RC-Index.md",
     "Index.md",
     "personal/narratives/Meshos, The Series/recap/Callum.md"
