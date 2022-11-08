@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b895603947eb50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/History of Astor/In The Era of Dungeons & Dragons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md",
+                "file": "personal/dnd/astor/History of Astor/In The Era of Dungeons & Dragons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md",
+                "file": "personal/dnd/astor/History of Astor/In The Era of Dungeons & Dragons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/(!) Astor (Index).md"
+                "file": "personal/dnd/astor/History of Astor/In The Era of Dungeons & Dragons.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46dd67aa85ba59ef",
+  "active": "2b895603947eb50d",
   "lastOpenFiles": [
-    "personal/dnd/astor/(1) Gloria.md",
     "personal/dnd/astor/(!) Astor (Index).md",
+    "personal/dnd/astor/History of Astor/In The Era of Dungeons & Dragons.md",
+    "personal/dnd/astor/(1) Gloria.md",
     "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md",
     "personal/narratives/Meshos, The Series/BK3, Abaddon; Back from The Down Under.md",
     "personal/narratives/Meshos, The Series/BK2, Inverted; Messenger on A Mission.md",
     "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
-    "personal/narratives/Meshos, The Series/recap/Callum.md",
-    "personal/narratives/Meshos, The Series/recap/RC-Index.md"
+    "personal/narratives/Meshos, The Series/recap/Callum.md"
   ]
 }
