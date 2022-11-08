@@ -9,10 +9,13 @@ There are five nations in Astor, they are:
 * [[(5) Uthal]], the nation that unites them all, the capital of Astor
 
 # All Official Shops
-* Town Blacksmith
+Shops provide precious, special, or sometimes even helpful items for your adventures.
+* Jerry's Blacksmith (Blacksmith)
   > Provides most weapons, tools, and other items.
-* General Store
+* Astor's Everything Shop (General Store)
   > Provides necessities such as adventuring gear, and other items.
+* Wonder of Alchemy (Alchemy Shop)
+  > Provides potions, medicine, boosts, buffs, and de-buffs, and other items.
 
 # All Homebrew Features
 ### Magic's Blessing
