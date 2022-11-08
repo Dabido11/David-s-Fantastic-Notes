@@ -4,4 +4,4 @@ But we need to start at the beginning, back where it all started.
 
 ---
 
-A squad of four old childhood friends banded up to discover interesting mysteries and gain new amazing treasures. They traveled through multiple difficult dungeons and 
+A squad of four old childhood friends banded up to discover interesting mysteries and gain new amazing treasures. They travelled through multiple difficult dungeons and 
