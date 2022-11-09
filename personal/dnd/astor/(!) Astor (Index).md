@@ -1,5 +1,5 @@
 # Welcome to the World of Astor!
-Astor is a modified planet of Earth, except it is set in an entirely different universe.
+Astor is a modified planet of Earth where magic and fighting is heavily normalised, except it is set in an entirely different universe.
 
 There are five nations in Astor, they are:
 * [[(1) Gloria]], the nation of Wealth & Knowledge
@@ -17,16 +17,26 @@ Shops provide precious, special, or sometimes even helpful items for your advent
 * Wonder of Alchemy (Alchemy Shop)
   > Provides potions, medicine, boosts, buffs, and de-buffs, and other items.
 
+
 # All Homebrew Features
 ### Magic's Blessing
 An enchantment system to enchant items & weapons that are available and owned. **Can only be used in a Wizards' Guild tower.**
 * **You must own the weapon type and have in-game knowledge of the enchantment.**
-* **The enchantment will cost 500 gp to start, then double every enchantment.**
+* **The enchantment will cost 500 gp to start, then doubles with every enchantment.**
 * **Very rare enchantments can only be done two times.**
 * **Legendary enchantments can only be done once and costs 10,000 pp.**
 
 ### Village Commissions
 When no other players are currently available, you can get some extra loot and finish some quests to fill the empty space.
+
+#### Quest List
+- [x]  "Cold Arcana" Chapter 2.1
+      A quest that tells the story about Astor's mysterious ice dragon.
+- [ ]  "Mysterious Reflection" Chapter 2.2
+      A quest that reveals the truth about a mysterious mirror and a whole new dimension.
+- [ ]  "Fire Arcana" Chapter 3.1
+      Continuation of "Cold Arcana". The amulet reveals a new secret, a place where the mastermind of it all can be found.
+
 
 ### Travel
 There are many types of transportation in the world of Astor, such as..
