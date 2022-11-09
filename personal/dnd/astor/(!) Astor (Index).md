@@ -32,4 +32,4 @@ When no other players are currently available, you can get some extra loot and f
 There are many types of transportation in the world of Astor, such as..
 
 * Boat (Sailor's Fee --> 20d100 + 500 gp)
-* Authorised Teleportation (Guild Fee --> 40d100 + 2000 gp)
+* Authorised Matter Transporter Travel (Guild Fee --> 40d100 + 2000 gp)
