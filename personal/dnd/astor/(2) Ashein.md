@@ -8,8 +8,5 @@ Ashein is a nation that takes place in the world of [[(!) Astor (Index)]]. This 
 * Benorn
 * Balmpalm
 
-## Ongoing Campaigns
-- Rough Start (@Lyph and @Speedy_Mii)
-
 ## Landmarks
 - Matter Transporter (Easy transport from nation to nation, Astrium and Meshos do not have this)

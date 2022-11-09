@@ -6,4 +6,9 @@ A nation that takes place in [[(!) Astor (Index)]], with similar aspects to [[(4
 - Daekrahm
 
 ## Ongoing Campaigns
-* Briar's Adventures (Astrium) (@Gracius, @TGA, @exonotist)
+- A New Revelation (Expanded Campaign)
+  > This expanded campaign includes the following players.. @TGA, @Gracius, @Lyph, @Speedy_Mii, and @exonotist.
+
+## Landmarks
+- Astrium Wizards' Guild
+  > One of the strongest Wizards' Guilds of Astor. A mysterious council member lives here.
