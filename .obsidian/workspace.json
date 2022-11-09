@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/Adventures in a Naive World/Recap.md",
+                "file": "personal/dnd/astor/(!) Astor (Index).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/Adventures in a Naive World/Recap.md",
+                "file": "personal/dnd/astor/(!) Astor (Index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/Adventures in a Naive World/Recap.md",
+                "file": "personal/dnd/astor/(!) Astor (Index).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/Adventures in a Naive World/Recap.md"
+                "file": "personal/dnd/astor/(!) Astor (Index).md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46dd67aa85ba59ef",
+  "active": "5271e1b88a7bb250",
   "lastOpenFiles": [
+    "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
-    "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/Adventures in a Naive World/Recap.md",
+    "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/(!) Astor (Index).md",
-    "personal/dnd/astor/(1) Gloria.md",
-    "personal/dnd/astor/(3) Astrium.md",
-    "personal/dnd/astor/(2) Ashein.md",
-    "personal/dnd/astor/(5) Uthal.md",
-    "personal/dnd/astor/(4) Meshos.md",
+    "personal/dnd/astor/Nations/(3) Astrium.md",
+    "personal/dnd/astor/Nations/(2) Ashein.md",
+    "personal/dnd/astor/Nations/(5) Uthal.md",
+    "personal/dnd/astor/Nations/(4) Meshos.md",
     "Index.md"
   ]
 }
