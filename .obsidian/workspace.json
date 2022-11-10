@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "personal/dnd/astor/Nations/(2) Ashein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3db77bba5773b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/studies/science/Synthetic Biology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "626d77a5219dede8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "personal/dnd/astor/(!) Astor (Index).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "46dd67aa85ba59ef",
+  "active": "626d77a5219dede8",
   "lastOpenFiles": [
+    "personal/studies/science/Cells.md",
+    "personal/studies/science/Synthetic Biology.md",
+    "personal/dnd/astor/Nations/(2) Ashein.md",
     "personal/dnd/astor/(!) Astor (Index).md",
     "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
     "personal/dnd/astor/Adventures in a Naive World/Recap.md",
     "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/Nations/(3) Astrium.md",
-    "personal/dnd/astor/Nations/(2) Ashein.md",
-    "personal/dnd/astor/Nations/(5) Uthal.md",
-    "personal/dnd/astor/Nations/(4) Meshos.md",
-    "Index.md"
+    "personal/dnd/astor/Nations/(5) Uthal.md"
   ]
 }

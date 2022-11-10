@@ -1,11 +1,11 @@
 {
   "theme": "system",
   "cssTheme": "Minimal",
-  "translucency": true,
+  "translucency": false,
   "monospaceFontFamily": "Cascadia Code",
   "accentColor": "",
   "interfaceFontFamily": "Karla",
   "textFontFamily": "Karla",
-  "baseFontSize": 17,
+  "baseFontSize": 15,
   "nativeMenus": false
 }
