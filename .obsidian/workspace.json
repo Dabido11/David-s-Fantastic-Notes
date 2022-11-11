@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6e09fc1926a002f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md"
+                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md"
               }
             }
           },
@@ -170,17 +182,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "626d77a5219dede8",
+  "active": "a6e09fc1926a002f",
   "lastOpenFiles": [
-    "personal/dnd/astor/Adventures in a Naive World/Recap.md",
+    "personal/dnd/astor/Nations/(3) Astrium.md",
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
+    "personal/dnd/astor/Travels in Astrium/Recap (A).md",
+    "personal/dnd/astor/Travels in Astrium/Recap (B).md",
     "personal/dnd/astor/(!) Astor (Index).md",
     "personal/studies/science/Cells.md",
     "personal/studies/science/Synthetic Biology.md",
     "personal/dnd/astor/Nations/(2) Ashein.md",
-    "personal/dnd/astor/Nations/(1) Gloria.md",
-    "personal/dnd/astor/Travels in Astrium/Recap.md",
-    "personal/dnd/astor/Nations/(3) Astrium.md",
-    "personal/dnd/astor/Nations/(5) Uthal.md"
+    "personal/dnd/astor/Nations/(1) Gloria.md"
   ]
 }
