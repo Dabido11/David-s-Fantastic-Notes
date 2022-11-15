@@ -3,9 +3,9 @@
 ## Chapter 4 "Something Unbearable"
 When the party is now united and live on, their long rest is interrupted by poisonous green smoke and purple fire. Three dragons have arisen from the dead in the form of Poisonous Fire Dragons. When players fight these dragons, they take disadvantage of every roll (and have to roll three times and take the lowest number). 
 
-When looking around, the council members all stabbed with swords, with one having a hole with fire still burning through their chest, which looks like Augustus.
+When looking around, the council members all stabbed with swords, with one having third-degree burns covered all over his skin and his mage's armour ripped and torn apart, burning, and wearing the effective equivalent of smouldering rags. The dead council member with the burns awfully looks similar to Augustus.
 
-For the simplicity of practical stats, players will fight three fire dragons and Augustus.
+For the simplicity of practical stats, players will fight three fire dragons and Kanikuzul, which is disguised as Augustus.
 
 "The party all wakes up to a dazzling and shocking smell, the smell of fire and smoke can be sensed from miles away. As you all feel conscious, you all open your eyes and gaze at the numerous houses with poisonous green smoke and the putrid-smelling fire. You can hear screams and wailing from several commoners and the smell of potions and weapons being burned and vanishing into thin air. 'All of this was according to plan,' you hear, from a familiar voice. 
 
