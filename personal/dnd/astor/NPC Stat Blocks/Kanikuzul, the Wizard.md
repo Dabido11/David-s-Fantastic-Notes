@@ -1,4 +1,4 @@
-Augustus is a Level 20 Wizard from the Wizards' Guild, who has been the leader for 50 years.
+Kanikuzul is a Level 15 sorcerer who has mastered the dark arts and is now going to spread chaos and dictate the world, but first, he must wipe off the world.
 
 ## Stat Block
 ### Stats
@@ -14,7 +14,13 @@ Augustus is a Level 20 Wizard from the Wizards' Guild, who has been the leader f
 - WIS: 15 (+2)
 - CHA: 16 (+3)
 
+#### Saving Throws
+- INT +9
+- WIS +6
+
 ### Spells
+To hit, enemies/targets need to roll a DC 17 Intelligence Saving Throw.
+
 - Cantrips (at will): [fire bolt](https://www.dndbeyond.com/spells/fire-bolt), [light](https://www.dndbeyond.com/spells/light), [mage hand](https://www.dndbeyond.com/spells/mage-hand), [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation), [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)
 - 1st level (4 slots): [detect magic](https://www.dndbeyond.com/spells/detect-magic), [identify](https://www.dndbeyond.com/spells/identify), [mage armor](https://www.dndbeyond.com/spells/mage-armor),* [magic missile](https://www.dndbeyond.com/spells/magic-missile)
 - 2nd level (3 slots): [detect thoughts](https://www.dndbeyond.com/spells/detect-thoughts), [mirror image](https://www.dndbeyond.com/spells/mirror-image), [misty step](https://www.dndbeyond.com/spells/misty-step)
@@ -26,4 +32,4 @@ Augustus is a Level 20 Wizard from the Wizards' Guild, who has been the leader f
 - 8th level (1 slot): [mind blank](https://www.dndbeyond.com/spells/mind-blank)*
 - 9th level (1 slot): [time stop](https://www.dndbeyond.com/spells/time-stop)
 
-\*The archmage casts these spells on itself before combat.
+\*Augustus casts these spells on himself before combat.

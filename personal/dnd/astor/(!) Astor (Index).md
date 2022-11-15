@@ -37,6 +37,15 @@ When no other players are currently available, you can get some extra loot and f
 - [ ]  "Fire Arcana" Chapter 3.1
       Continuation of "Cold Arcana". The amulet reveals a new secret, a place where the mastermind of it all can be found.
 
+### Favourability / Reputation
+The reputation of a character is rated from a scale of -5 to +5, players start at 0. Normally, favourability only stays in one town and does not transfer to the other.
+
+When a character reaches:
+- -5 favourability: The character is despised by the whole town and is normally executed, assassinated, or kicked out after a few days.
+- -3 favourability: The character is despised by half of the town's population, and NPCs normally do not talk to these people.
+- 0 favourability: The character is a normal adventurer or commoner in the town.
+- +3 favourability: The character is known as a prestigious adventurer, and is normally praised by most NPCs and commoners.
+- +5 favourability: The character is a known folk hero receives a hefty discount (1d% + 1d10 or 1d100) from most products in the shop, and changes every visit.
 
 ### Travel
 There are many types of transportation in the world of Astor, such as..

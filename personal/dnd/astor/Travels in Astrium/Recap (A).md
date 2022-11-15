@@ -1,4 +1,6 @@
 # Recap
+(A) Ashein
+(B) Astrium
 
 ## Characters
 Argus Eudoria --> @Lyph
@@ -35,3 +37,7 @@ Waking up in mysterious cells, it feels like a little bit of deja vu. Using a li
 
 ## Chapter 3 (B) (Connecting Session) "A Fascinating Discovery"
 An emergency is heard from the Wizards' Guild and a new character is revealed.
+
+
+## Chapter 4 "Something Unbearable"
+As the party goes into a hiatus, a surprising attack occurs in 
