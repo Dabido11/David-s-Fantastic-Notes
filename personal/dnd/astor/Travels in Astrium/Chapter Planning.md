@@ -17,6 +17,8 @@ As Augustus reveals his true form, his disguise self spell vanishes, and Augustu
 
 If players proceed to forfeit, Kanikuzul gets to use an Opportunity Attack with a homebrew "Soul Chain" spell which deals 3d12 + 4 if players fail on a STR Saving Throw. The only available exits out of Whiridge are the South and South-West exit. The North forest has burned down, the grasslands are completely gone and reduced to dirt.
 
+As they all leave the battlefield, the sun is covered by a blood moon.
+
 ***Players will be immediately in combat, with disadvantaged initiative, and have the option to forfeit. When players die after this chapter, they cannot be revived easily and the required spells are needed (any healing spells) to revive characters. If characters are not revived for 3 or more sessions, the character is deceased and cannot play as the same character again unless the spell [revivify](https://www.dndbeyond.com/spells/revivify) is used within the first minute.***
 
 ## Chapter 5 "A Fallen Enemy, Reborn"
