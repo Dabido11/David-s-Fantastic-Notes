@@ -4,7 +4,7 @@ Kanikuzul is a Level 15 sorcerer who has mastered the dark arts and is now going
 ### Stats
 - Armour Class (AC): 17 (20 w/ mage armour)
 - Challenge Rating (CR): 15
-- Hit Points (HP): 143/150 (7d20+10)
+- Hit Points (HP): 135/150 (7d20+10)
 
 ### Attributes
 - STR: 10 (+0)
