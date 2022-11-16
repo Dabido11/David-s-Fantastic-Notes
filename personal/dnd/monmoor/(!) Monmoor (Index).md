@@ -1,0 +1,1 @@
+In a small town of Katoron, three commoners which are childhood friends with each other decide to go on an adventure in search of great treasure and loot.
