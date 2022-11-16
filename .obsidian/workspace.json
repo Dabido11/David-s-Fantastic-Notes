@@ -32,26 +32,6 @@
             }
           },
           {
-            "id": "626d77a5219dede8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a6e09fc1926a002f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap (A).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9a0d5ea4caa5726",
             "type": "leaf",
             "state": {
@@ -64,43 +44,19 @@
             }
           },
           {
-            "id": "dc1e4ddad0a3e7aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25b14fb12e4b0b63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f02ed5fdc1ef66c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md"
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md"
               }
             }
           },
@@ -228,11 +184,11 @@
   },
   "active": "f02ed5fdc1ef66c1",
   "lastOpenFiles": [
+    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
     "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md",
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
     "personal/dnd/astor/Travels in Astrium/Recap (A).md",
-    "personal/dnd/astor/Travels in Astrium/Statistics.md",
-    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
     "personal/dnd/astor/NPC Stat Blocks/Special NPCs/Aisha, the Cleric.md",
     "personal/studies/science/Cells.md",
     "personal/studies/science/Synthetic Biology.md",

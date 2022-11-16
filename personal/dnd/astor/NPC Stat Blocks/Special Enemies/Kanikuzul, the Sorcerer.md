@@ -18,7 +18,7 @@ Kanikuzul is a Level 15 sorcerer who has mastered the dark arts and is now going
 - INT +9
 - WIS +6
 
-### Spells
+### Spells (Spellcasting)
 To hit, enemies/targets need to roll a DC 17 Intelligence Saving Throw.
 
 - Cantrips (at will): [fire bolt](https://www.dndbeyond.com/spells/fire-bolt), [light](https://www.dndbeyond.com/spells/light), [mage hand](https://www.dndbeyond.com/spells/mage-hand), [prestidigitation](https://www.dndbeyond.com/spells/prestidigitation), [shocking grasp](https://www.dndbeyond.com/spells/shocking-grasp)

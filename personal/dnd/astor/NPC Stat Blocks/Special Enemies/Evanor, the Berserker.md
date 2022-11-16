@@ -18,6 +18,10 @@ Evanor is a berserker who seeks the same goals as Kanikuzul and wants to spread 
 _**Reckless.**_ At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
 ## Actions
-_**Greataxe.** Melee Weapon Attack
+_**Greataxe.**_ Melee Weapon Attack
 +5 to hit, reach 5 ft., one target. 
-Hit:_ 9 (1d12 + 3) slashing damage.
+Hit:_ 9 (1d12 + 3) slashing damage
+
+_**Blood Bomb.**_ Ranged Weapon Attack
++3 to hit, reach 7 ft., two targets. 
+Hit: 15 (1d12 + 5) poison damage
