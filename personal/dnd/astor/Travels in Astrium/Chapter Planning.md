@@ -16,7 +16,7 @@ For the simplicity of practical stats, players will fight three fire dragons and
 
 As Augustus reveals his true form, his disguise self spell vanishes, and Augustus appears to be the sorcerer that had been defeated, but how?
 
-'Your part of my plan has now ended, and there is no use for you anymore, so you must be disposed of. You may be in luck that I ' "
+'"Your part of my plan has now ended, and there is no use for you anymore, so you must be disposed of'' "
 
 If players proceed to forfeit, Kanikuzul gets to use an Opportunity Attack with a homebrew "Soul Chain" spell which deals 3d12 + 4 if players fail on a STR Saving Throw. The only available exits out of Whiridge are the South and South-West exit. The North forest has burned down, the grasslands are completely gone and reduced to dirt. As they all leave the battlefield, the sun is covered by a blood moon.
 
