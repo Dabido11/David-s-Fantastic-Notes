@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Kanikuzul, the Sorcerer.md",
+                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,14 +81,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Evanor, the Berserker.md",
+                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f02ed5fdc1ef66c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Evanor, the Berserker.md",
+                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Evanor, the Berserker.md",
+                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/NPC Stat Blocks/Evanor, the Berserker.md"
+                "file": "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md"
               }
             }
           },
@@ -214,17 +226,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "25b14fb12e4b0b63",
+  "active": "f02ed5fdc1ef66c1",
   "lastOpenFiles": [
-    "personal/dnd/astor/NPC Stat Blocks/Kanikuzul, the Sorcerer.md",
-    "personal/dnd/astor/NPC Stat Blocks/Evanor, the Berserker.md",
+    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
-    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Recap (A).md",
-    "personal/dnd/astor/(!) Astor (Index).md",
-    "personal/dnd/astor/Travels in Astrium/Recap (B).md",
-    "personal/dnd/astor/Adventures in a Naive World/Statistics.md",
-    "personal/dnd/astor/Nations/(3) Astrium.md",
-    "personal/studies/science/Cells.md"
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
+    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
+    "personal/dnd/astor/NPC Stat Blocks/Special NPCs/Aisha, the Cleric.md",
+    "personal/studies/science/Cells.md",
+    "personal/studies/science/Synthetic Biology.md",
+    "Index.md",
+    "personal/dnd/astor/(!) Astor (Index).md"
   ]
 }

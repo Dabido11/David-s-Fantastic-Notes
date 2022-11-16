@@ -1,0 +1,1 @@
+An infirmary cleric who works in the "Ashein Hospital of Goods"
