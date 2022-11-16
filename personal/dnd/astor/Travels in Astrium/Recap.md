@@ -23,7 +23,7 @@ By the end of the chapter, they find a diamond-shaped dungeon that contained a r
 As a new day arises in their very terrible adventure, the duo explore the wilderness again and camp. They are captured by mysterious cultists and orcs and they successfully escape through a mysterious backdoor next to their home. The duo threaten a sailor to go to Uthal, but that doesn't go well.
 
 ## Chapter 2 (B) "Near Death"
-After meeting a wizard, named Augustus, after the brutal death of the mysterious sorceror, the team gets some new intel about an undead sorceror and his master, a mysterious necromancer. Xono and Joshua is sent on a dungeon hunt that nearly kills them from 3x orcs. Bruno is captured by Augustus due to his hostility.
+After meeting a wizard, named Augustus, after the brutal death of the mysterious sorcerer, the team gets some new intel about an undead sorcerer and his master, a mysterious necromancer. Xono and Joshua are sent on a dungeon hunt that nearly kills them from 3x orcs. Bruno is captured by Augustus due to his hostility.
 
 ### Chapter 2.1  (B) "Cold Arcana"
 Joshua goes on a mysterious adventure the Wizards' Guild had posted. He meets a new dragon and a new secret.
