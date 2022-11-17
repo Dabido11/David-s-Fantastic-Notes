@@ -40,4 +40,4 @@ An emergency is heard from the Wizards' Guild and a new character is revealed.
 
 
 ## Chapter 4 "Something Unbearable"
-As the party goes into a hiatus, a surprising attack occurs in 
+As the party wakes up from a normal peaceful day, they realise that the sorcerer is back and the world of Astor is in trouble. 
