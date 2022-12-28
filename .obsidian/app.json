@@ -4,5 +4,8 @@
   "foldHeading": true,
   "showLineNumber": false,
   "spellcheck": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "en-GB"
+  ]
 }

@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f527d91375b36f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/Handy Tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "dev/Handy Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "dev/Handy Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md"
+                "file": "dev/Handy Tips.md"
               }
             }
           },
@@ -206,17 +218,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "37b5bbe407d7b91c",
+  "active": "f527d91375b36f71",
   "lastOpenFiles": [
+    "personal/dnd/astor/Travels in Astrium/Recap.md",
+    "personal/dnd/astor/Nations/(2) Ashein.md",
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
     "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
-    "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/A New Day/Recap.md",
     "personal/dnd/astor/Nations/(3) Astrium.md",
     "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/monmoor/(!) Monmoor (Index).md",
-    "personal/dnd/astor/Travels in Astrium/Statistics.md",
-    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md",
-    "personal/dnd/astor/NPC Stat Blocks/Special NPCs/Aisha, the Cleric.md"
+    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md"
   ]
 }
