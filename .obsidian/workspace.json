@@ -95,9 +95,11 @@
             "id": "e4bf8f265142d2a3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/Handy Tips.md"
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md"
               }
             }
           },
@@ -245,14 +247,14 @@
   "active": "e4bf8f265142d2a3",
   "lastOpenFiles": [
     "personal/dnd/astor/Travels in Astrium/Recap.md",
-    "personal/dnd/astor/Nations/(2) Ashein.md",
     "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+    "personal/dnd/astor/(!) Astor (Index).md",
+    "personal/dnd/astor/Nations/(2) Ashein.md",
     "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
     "personal/dnd/astor/A New Day/Recap.md",
     "personal/dnd/astor/Nations/(3) Astrium.md",
     "personal/dnd/astor/Nations/(1) Gloria.md",
-    "personal/dnd/monmoor/(!) Monmoor (Index).md",
-    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md"
+    "personal/dnd/monmoor/(!) Monmoor (Index).md"
   ]
 }

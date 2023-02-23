@@ -18,7 +18,6 @@ In Chapter 1, the characters and the players are introduced to the story. As new
 
 By the end of the chapter, they find a diamond-shaped dungeon that contained a rare diamond, which sold for 5000 gp. They also fight an evil undead sorcerer that is brutally decapitated by Xono.
 
-
 ## Chapter 2 (A)  "Trapped In A Cell"
 As a new day arises in their very terrible adventure, the duo explore the wilderness again and camp. They are captured by mysterious cultists and orcs and they successfully escape through a mysterious backdoor next to their home. The duo threaten a sailor to go to Uthal, but that doesn't go well.
 
@@ -31,13 +30,11 @@ Joshua goes on a mysterious adventure the Wizards' Guild had posted. He meets a 
 ### Chapter 2.2 (B) "A Mysterious Reflection" 
 The Astrium Wizards' Guild stumbles upon a mysterious and magical mirror, covered in runes and shattered from the middle. Bruno and Joshua investigates its secrets.
 
-
 ## Chapter 3 (A) "Best Way Outta Here"
 Waking up in mysterious cells, it feels like a little bit of deja vu. Using a little bit of spells and magic, the duo attempts a risky escape outside of Ashein's biggest prisons.
 
 ## Chapter 3 (B) (Connecting Session) "A Fascinating Discovery"
 An emergency is heard from the Wizards' Guild and a new character is revealed.
-
 
 ## Chapter 4 "Something Unbearable"
 As the party wakes up from a normal peaceful day, they realise that the sorcerer is back and the world of Astor is in trouble. 
