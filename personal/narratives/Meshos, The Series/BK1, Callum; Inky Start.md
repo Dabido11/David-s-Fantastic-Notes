@@ -1,7 +1,7 @@
 # Meshos: Callum
 ## Table of Contents
 [[#Prologue]]
-[[#Chapter 1 Broken Soul]]\
+[[#Chapter 1 Broken Soul]]
 
 ## Prologue
 "Sir, we are getting close to the perimeter of the Bermuda Triangle," a soldier said, communicating over radio.

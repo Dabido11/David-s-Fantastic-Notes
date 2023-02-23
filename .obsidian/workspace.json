@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+                "file": "personal/studies/science/Cells.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+                "file": "personal/studies/science/Cells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+                "file": "personal/studies/science/Cells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md"
+                "file": "personal/studies/science/Cells.md"
               }
             }
           },
@@ -246,15 +246,15 @@
   },
   "active": "e4bf8f265142d2a3",
   "lastOpenFiles": [
+    "notes/root.md",
+    "dev/Handy Tips.md",
+    "personal/studies/science/Cells.md",
     "personal/dnd/astor/Travels in Astrium/Recap.md",
-    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
-    "personal/dnd/astor/(!) Astor (Index).md",
-    "personal/dnd/astor/Nations/(2) Ashein.md",
-    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
-    "personal/dnd/astor/A New Day/Recap.md",
-    "personal/dnd/astor/Nations/(3) Astrium.md",
-    "personal/dnd/astor/Nations/(1) Gloria.md",
-    "personal/dnd/monmoor/(!) Monmoor (Index).md"
+    "personal/studies/science/Synthetic Biology.md",
+    "personal/narratives/Narratives Index.md",
+    "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
+    "personal/narratives/Meshos, The Series/BK2, Inverted; Messenger on A Mission.md",
+    "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md"
   ]
 }
