@@ -107,9 +107,11 @@
             "id": "4ea0f0cffb710cb0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -180,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/studies/science/Cells.md",
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/studies/science/Cells.md",
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/studies/science/Cells.md"
+                "file": "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md"
               }
             }
           },
@@ -256,15 +258,18 @@
   },
   "active": "4ea0f0cffb710cb0",
   "lastOpenFiles": [
+    "personal/narratives/Meshos, The Series/BK2, Inverted; The Messenger.md",
+    "personal/narratives/Meshos, The Series/BK3, Abaddon; Nocturnal.md",
+    "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md",
+    "personal/narratives/Meshos, The Series/BK6, Ace; All the Suits.md",
+    "personal/narratives/Meshos, The Series/BK5, Jacob; Finding Purpose.md",
+    "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
+    "personal/narratives/Narratives Index.md",
     "notes/root.md",
     "dev/Handy Tips.md",
     "personal/studies/science/Cells.md",
     "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
-    "personal/studies/science/Synthetic Biology.md",
-    "personal/narratives/Narratives Index.md",
-    "personal/narratives/Meshos, The Series/BK1, Callum; Inky Start.md",
-    "personal/narratives/Meshos, The Series/BK2, Inverted; Messenger on A Mission.md",
-    "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md"
+    "personal/studies/science/Synthetic Biology.md"
   ]
 }
