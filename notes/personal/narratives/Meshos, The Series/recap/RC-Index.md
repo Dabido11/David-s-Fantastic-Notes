@@ -1,2 +1,0 @@
-## DISCLAIMER!!
-A huge disclaimer and content warning for this section, the story is very messed up because these are the **EXACT** events from my roleplay sessions in the Roblox game called Vampire Kingdom. I am completely rewriting the story because of the variety of characters that could be added or interpreted in these little stories.

@@ -1,3 +1,0 @@
-# Meshos: Abaddon
-## Prologue
-

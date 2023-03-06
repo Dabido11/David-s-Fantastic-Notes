@@ -1,2 +1,0 @@
-# Meshos: Ace
-## Prologue
