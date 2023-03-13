@@ -104,31 +104,17 @@
             }
           },
           {
-            "id": "bf623597ed19509a",
+            "id": "4e2c108dbf601dfa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "school/maths/MATH - Examination Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "435852e91d3a7c48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "school/science/SCI - Examination Review.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.1.16"
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -194,7 +180,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "school/science/SCI - Examination Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +196,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "school/science/SCI - Examination Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +217,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "school/science/SCI - Examination Review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -268,7 +250,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "435852e91d3a7c48",
+  "active": "4e2c108dbf601dfa",
   "lastOpenFiles": [
     "school/maths/MATH - Examination Review.md",
     "school/science/SCI - Examination Review.md",
