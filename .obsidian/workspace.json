@@ -107,9 +107,11 @@
             "id": "4e2c108dbf601dfa",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.16"
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -180,6 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,6 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +221,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md"
+              }
             }
           },
           {
