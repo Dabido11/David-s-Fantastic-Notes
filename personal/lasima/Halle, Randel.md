@@ -26,19 +26,19 @@ Once reality and responsibility hit him, he was forced to socialise with his pee
 
 # H I G H L I G H T E D  C A P A B I L I T I E S
 
--   Magic | Expert
+-   **Magic** | Expert
 	-   His water and air magic is excellent and can do some advanced tricks and moves, while his fire magic is at survival level. However, he hasn’t studied too much on most of the other elements and is planning to study them during his travels.
 
--   Cooking | Expert
+-   **Cooking** | Expert
 	-   Through his exploration, he’s made up a few recipes from everything he’s seen and collected. You can expect many great dishes, presentable or not, if you challenge him to a cook-off.
 
--   Literacy | Intermediate
+-   **Literacy** | Intermediate
 	-   A researcher and writer at heart, he sees literature as a core aspect in his routine and life. In order to write such detailed and organised notes and texts about his research, he will need to learn a lot about the concept of literacy.
 
--   Medicine and Herbology | Novice
+-   **Medicine and Herbology** | Novice
 	-   He knows how to mix a few herbs & items and make some basic medicine to treat some colds and coughs. Sometimes his brews don't work well, sometimes they do. It depends on the person since he only requires a weaker dose of his own brews.
 
--   Physical & Martial Combat | Novice
+-   **Physical & Martial Combat** | Novice
 	-   Just a traveller by heart, he’s not exactly the best for 1-1 combat unarmed or with a weapon. However, he does know how to defend himself in the most desperate of times.
 
 # D E V E L O P M E N T  &  T E N S I O N
