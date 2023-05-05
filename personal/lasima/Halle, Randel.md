@@ -18,7 +18,11 @@ Intelligence is a key aspect in his life, and intelligence is his way of life. O
 
 # B A C K G R O U N D
 
-Give background on who your character is and how they became that way. The pivotal experiences that have defined them and that would play a role in their actions today.
+Following a strict but once prestigious household, his family was always a busy and closely-tight family. Despite the culture of his household, he would always find a way to make time for himself to go on mini exploration hikes. His time being alone didn't give him the opportunity to seek out friends, and he didn't want to anyway. Sure, over the years he made some connections but most of them went away due to his quiet nature. He would always ignore and never talk to the people beside him, and would always cherish the world around him. The nature, the sky, the air. All of this had sparked his interest in magic, which he knew that he already unlock in him already.
+
+Teaching himself the ways of magic, he used this advantage for his own needs but not his wants. He would never wreak havoc on the world and would give back anything he takes from nature, whether it uses his life force or not.
+
+Once reality and responsibility hit him, he was forced to socialise with his peers. Always known as the quiet one, he would never engage in small talk with  other people and just get the job done. Talk, complete, reward was his routine. He used his spare change to go out and explore the seas beyond him and the woods near the busy docks.
 
 # H I G H L I G H T E D  C A P A B I L I T I E S
 
