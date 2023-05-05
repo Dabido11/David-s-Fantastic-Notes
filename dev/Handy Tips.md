@@ -1,6 +1,6 @@
 # Handy Tips
 
-## Lua (Roblox)
+## Lua (Roblox Studio)
 - print() --> prints a string (typically) and provides an output
 - wait() --> creates a delay in a script, and helps with making sure the lines of code do not go very quickly
 - warn() --> identical to print(), but displays in orange text

@@ -4,6 +4,19 @@
       "type": "file",
       "path": "Index.md",
       "ctime": 1683262138324
+    },
+    {
+      "type": "group",
+      "ctime": 1683262281709,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1683262238390,
+          "path": "personal/studies",
+          "title": "Academic Studies / Personal Projects"
+        }
+      ],
+      "title": "School"
     }
   ]
 }

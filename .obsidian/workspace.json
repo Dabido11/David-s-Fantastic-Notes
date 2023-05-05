@@ -131,9 +131,11 @@
             "id": "3e2a0de322f0bf62",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "dev/Handy Tips.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -212,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/studies/science/Cells.md",
+                "file": "dev/Handy Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/studies/science/Cells.md",
+                "file": "dev/Handy Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/studies/science/Cells.md"
+                "file": "dev/Handy Tips.md"
               }
             }
           },
@@ -288,11 +290,25 @@
   },
   "active": "3e2a0de322f0bf62",
   "lastOpenFiles": [
+    "personal/dnd/astor/A New Day/Recap.md",
+    "personal/dnd/astor/Nations/(1) Gloria.md",
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
+    "personal/dnd/astor/Travels in Astrium/Recap.md",
+    "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+    "personal/dnd/astor/Nations/(5) Uthal.md",
+    "personal/dnd/astor/Nations/(4) Meshos.md",
+    "personal/dnd/astor/Nations/(3) Astrium.md",
+    "personal/dnd/astor/Nations/(2) Ashein.md",
+    "personal/narratives/Narratives Index.md",
+    "personal/narratives/Meshos, The Series/MS-Index.md",
+    "personal/narratives/Meshos, The Series/BK2, Inverted; The Messenger.md",
+    "personal/narratives/Meshos, The Series/recap/Callum.md",
+    "personal/narratives/Meshos, The Series/recap/RC-Index.md",
+    "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
+    "personal/studies/english/Satellite Boy; Movie Analysis.md",
     "personal/studies/science/Synthetic Biology.md",
     "Index.md",
     "personal/studies/science/Cells.md",
-    "personal/studies/english/Satellite Boy; Movie Analysis.md",
-    "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/studies/english",
     "school/maths/MATH - Examination Review.md",
     "school/science/SCI - Examination Review.md",
@@ -301,14 +317,8 @@
     "school/maths",
     "school",
     "notes/root.md",
-    "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
-    "personal/narratives/Meshos, The Series/BK2, Inverted; The Messenger.md",
     "personal/narratives/Meshos, The Series/BK3, Abaddon; Nocturnal.md",
     "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md",
-    "personal/narratives/Meshos, The Series/BK6, Ace; All the Suits.md",
-    "personal/narratives/Meshos, The Series/BK5, Jacob; Finding Purpose.md",
-    "personal/narratives/Narratives Index.md",
-    "dev/Handy Tips.md",
-    "personal/dnd/astor/Travels in Astrium/Chapter Planning.md"
+    "personal/narratives/Meshos, The Series/BK6, Ace; All the Suits.md"
   ]
 }
