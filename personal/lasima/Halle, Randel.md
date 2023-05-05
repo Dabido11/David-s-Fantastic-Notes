@@ -33,25 +33,18 @@ Once reality and responsibility hit him, he was forced to socialise with his pee
 	-   Through his exploration, he’s made up a few recipes from everything he’s seen and collected. You can expect many great dishes, presentable or not, if you challenge him to a cook-off.
 
 -   Literacy | Intermediate
-	-   A researcher and writer at heart, he sees literature as a core aspect in his routine and life.
+	-   A researcher and writer at heart, he sees literature as a core aspect in his routine and life. In order to write such detailed and organised notes and texts about his research, he will need to learn a lot about the concept of literacy.
 
 -   Medicine and Herbology | Novice
-	-   He knows how to mix a few herbs & items and make some basic medicine to treat some colds and coughs. Not much, but it works for him.
-
--   Languages | Novice
-	-   Only proficient in Common and Thir, he doesn’t speak too many languages. He is also not too fluent in Gaelic but can understand Thir quite well. He is very proficient in Common.
+	-   He knows how to mix a few herbs & items and make some basic medicine to treat some colds and coughs. Sometimes his brews don't work well, sometimes they do. It depends on the person since he only requires a weaker dose of his own brews.
 
 -   Physical & Martial Combat | Novice
 	-   Just a traveller by heart, he’s not exactly the best for 1-1 combat unarmed or with a weapon. However, he does know how to defend himself in the most desperate of times.
 
 # D E V E L O P M E N T  &  T E N S I O N
 
--   Character Development: What is the intended direction you want your character to head in? Are they training to become a political leader, fighting for a rebellion? Do you want them to learn how to be a warrior or master their pride?
-    
--   Personal Tension: These are internal tension points that can be used to spring plot ideas or provide IC tension.
-    
--   Relationship Tensions: What are some of the IC relationship tensions that might impact and influence your character in their community, in their country or even throughout the Continent
-    
+-   **Character Development**: He is finding ways to escape reality and to realise nature's beauty. 
 
-  
-**
+-   **Personal Tension**: Never ask why he's quiet, he won't answer and will continue to ignore you more. He also has a necklace which is attached to a small amulet, it's fascinating to think on what could be inside of it.
+
+-  **Relationship Tensions**: The Thireann community thinks that he is different and odd, and really no one cares or talks to him. They just let him be and pay him for the jobs he works with the most.
