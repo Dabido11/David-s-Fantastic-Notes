@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b05a6fa617d28a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/studies/english/Satellite Boy; Case Study.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "personal/studies/english/Satellite Boy; Case Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "file": "personal/studies/english/Satellite Boy; Case Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Recap.md"
+                "file": "personal/studies/english/Satellite Boy; Case Study.md"
               }
             }
           },
@@ -256,8 +268,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "4e2c108dbf601dfa",
+  "active": "9b05a6fa617d28a5",
   "lastOpenFiles": [
+    "personal/dnd/astor/Travels in Astrium/Recap.md",
+    "personal/studies/english/Satellite Boy; Case Study.md",
+    "personal/studies/english",
     "school/maths/MATH - Examination Review.md",
     "school/science/SCI - Examination Review.md",
     "Maths Index.md",
@@ -274,7 +289,6 @@
     "personal/narratives/Narratives Index.md",
     "dev/Handy Tips.md",
     "personal/studies/science/Cells.md",
-    "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
     "personal/studies/science/Synthetic Biology.md"
   ]
