@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/lasima/Halle, Randel.md",
                 "mode": "source",
                 "source": false
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/lasima/Halle, Randel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/lasima/Halle, Randel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/Handy Tips.md"
+                "file": "personal/lasima/Halle, Randel.md"
               }
             }
           },
@@ -290,6 +290,9 @@
   },
   "active": "3e2a0de322f0bf62",
   "lastOpenFiles": [
+    "dev/Handy Tips.md",
+    "personal/lasima/Halle, Randel.md",
+    "personal/lasima",
     "personal/dnd/astor/A New Day/Recap.md",
     "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/astor/Travels in Astrium/Statistics.md",
@@ -317,8 +320,6 @@
     "school/maths",
     "school",
     "notes/root.md",
-    "personal/narratives/Meshos, The Series/BK3, Abaddon; Nocturnal.md",
-    "personal/narratives/Meshos, The Series/BK4, Windsor; Radio's Out.md",
-    "personal/narratives/Meshos, The Series/BK6, Ace; All the Suits.md"
+    "personal/narratives/Meshos, The Series/BK3, Abaddon; Nocturnal.md"
   ]
 }
