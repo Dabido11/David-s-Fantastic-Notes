@@ -128,18 +128,6 @@
             }
           },
           {
-            "id": "3e2a0de322f0bf62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4ed7b80140791405",
             "type": "leaf",
             "state": {
@@ -157,14 +145,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
+                "file": "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -238,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
+                "file": "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
+                "file": "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md"
+                "file": "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md"
               }
             }
           },
@@ -314,8 +302,9 @@
   },
   "active": "44a18294ec8062e6",
   "lastOpenFiles": [
-    "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
     "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
+    "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/lasima/Halle, Randel.md",
     "personal/dnd/astor/Nations/(2) Ashein.md",
     "personal/dnd/icespire/dm_notes",
@@ -324,7 +313,6 @@
     "personal/lasima",
     "personal/dnd/astor/A New Day/Recap.md",
     "personal/dnd/astor/Nations/(1) Gloria.md",
-    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
     "personal/dnd/astor/Nations/(5) Uthal.md",
@@ -343,7 +331,6 @@
     "personal/studies/english",
     "school/maths/MATH - Examination Review.md",
     "school/science/SCI - Examination Review.md",
-    "Maths Index.md",
     "school/science",
     "school/maths",
     "school"

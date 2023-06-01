@@ -25,5 +25,5 @@ Here are some session notes for the session at 29/5/2023.
 - Baramin's motive: Only fight against Genghis, but be friendly towards the others
 - If they decide to complete the quests successfully, the participating players are given gold in exchange for their effort and level up (only 1 quest)
 
-## Post-Session Notes
-* 
+## Live Session Notes
+
