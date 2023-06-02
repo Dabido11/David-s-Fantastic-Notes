@@ -1,0 +1,10 @@
+| d8  | Class |
+| --- | ----- |
+| 1    |  Wizard |
+|  2   | Cleric  |
+|  3   | Bard  |
+|  4   | Paladin      |
+|  5   | Warlock      |
+|  6   | Sorcerer      |
+|  7   | Druid      |
+|  8   | Ranger      |
