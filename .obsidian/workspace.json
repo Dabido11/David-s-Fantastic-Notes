@@ -150,9 +150,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6db4d2a727e5dd7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -300,7 +310,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "44a18294ec8062e6",
+  "active": "d6db4d2a727e5dd7",
   "lastOpenFiles": [
     "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
     "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
