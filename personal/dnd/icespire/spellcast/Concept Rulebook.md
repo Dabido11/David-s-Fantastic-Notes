@@ -1,5 +1,6 @@
 # Concept Rulebook for Spellcast
 ## Core Rules
+- A player gets a virtual character, like in a digital arena
 - Each player rolls a d20+2 for AC, 3d12 for HP, d8 for class, and d4 for the amount of spells they can have active.
 	- If the d4 is 1, players can reroll for another chance. (only once)
 	- If the d4 is 4, the player can receive a spellcasting modifier by rolling a d4

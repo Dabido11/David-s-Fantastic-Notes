@@ -1,7 +1,7 @@
 # Welcome
 Welcome to the Development Pre-Sessions, where the DM plans the character development of NPCs and BBEGs and worldbuilding for Icespire.
 
-## June 2nd, 2023
+## June 2nd, 2023 (w/ Tweaks from 5/6/23)
 - Baramin is now confirmed to be **BBEG**
 	- His hatred for Genghis has driven him insane for power, trying to find an easy way to defeat such thing
 	- He makes a deal with The Fiend, bloodlust rushing through his veins
@@ -15,6 +15,8 @@ Welcome to the Development Pre-Sessions, where the DM plans the character develo
 	- If the deal is fulfilled, the dragon is befriended and is no longer a problem for the party
 - When violence has emerged within the party, the sky darkens and a spherical, 15ft fog covers the party's vicinity
 	- If a party member is in the fog, they immediately collapse on the floor prone and paralysed (not death saves)
+		- If you'd like to survive these conditions every 5ft, you will need to roll a CON save until you are 30ft away from the fog
+		- If the member escaping the fog is the target, the fog expands
 	- The party member who incited/initiated the violent fight will be targeted immediately by the Agraverte (refer to stat block)
 - A spark of a soft, dark blue light shard emerges from Neverwinter city, and the moon shines bright and blue
 	- If you gaze upon the moon for this evening, you regain 1d8+4 HP out of combat
