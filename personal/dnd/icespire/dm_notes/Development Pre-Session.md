@@ -15,6 +15,7 @@ Welcome to the Development Pre-Sessions, where the DM plans the character develo
 	- If the deal is fulfilled, the dragon is befriended and is no longer a problem for the party
 - When violence has emerged within the party, the sky darkens and a spherical, 15ft fog covers the party's vicinity
 	- If a party member is in the fog, they immediately collapse on the floor prone and paralysed (not death saves)
-	- The party member who incited/initiated the violent fight will be targetted immediately by the Agraverte (refer to stat block)
+	- The party member who incited/initiated the violent fight will be targeted immediately by the Agraverte (refer to stat block)
 - A spark of a soft, dark blue light shard emerges from Neverwinter city, and the moon shines bright and blue
 	- If you gaze upon the moon for this evening, you regain 1d8+4 HP out of combat
+
