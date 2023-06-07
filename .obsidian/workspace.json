@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
+                "file": "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
+                "file": "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
+                "file": "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Development Pre-Session.md"
+                "file": "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md"
               }
             }
           },
@@ -314,6 +314,11 @@
   },
   "active": "d6db4d2a727e5dd7",
   "lastOpenFiles": [
+    "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
+    "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
+    "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
+    "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
+    "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
     "personal/dnd/astor/(!) Astor (Index).md",
     "personal/studies/english/Satellite Boy; Movie Analysis.md",
     "personal/narratives/Narratives Index.md",
@@ -330,11 +335,7 @@
     "personal/dnd/astor/Travels in Astrium/Recap.md",
     "personal/dnd/icespire/spellcast/Concept Rulebook.md",
     "personal/dnd/icespire/spellcast/Tables for Spellcast.md",
-    "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
-    "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
-    "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
     "personal/dnd/icespire/spellcast",
-    "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
     "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/icespire/dm_notes",
     "personal/dnd/icespire",
@@ -343,7 +344,6 @@
     "personal/narratives/Meshos, The Series/BK2, Inverted; The Messenger.md",
     "personal/narratives/Meshos, The Series/recap/Callum.md",
     "personal/narratives/Meshos, The Series/recap/RC-Index.md",
-    "personal/narratives/Meshos, The Series/BK1, Callum; Inked Out.md",
     "personal/studies/english",
     "school/science",
     "school/maths",
