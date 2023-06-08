@@ -36,5 +36,5 @@ Welcome to Phase 0 of 3 for the Freezing Undead event.
 - An undead archmage arises from the dead in the apex of the magical ice castle, and a bright, green beam beams in the eye of the storm
 	- The reason for the resurrection: The magic being held in Castle Never has released an evil, quite strong magical soul being held captive under a seal, causing a blizzard to arise from the soul's sheer magical power
 	- Why? This archmage died under the conscience of revenge, punishment, and guilt and thinks that this world should be frozen to death and started anew
-- The blizzard is unhabitable unless a torch enchanted with a Cleric's or Paladin's power is used, which clears fog within a 5ft cube
+- The blizzard is unhabitable unless a torch enchanted with divination is used, which clears fog within a 15 ft cube
 - It has created a worse fog of sorts, with people without the torch suffering from suffocation and the freezing temperatures (CON save, 1d10, and half if fail)
