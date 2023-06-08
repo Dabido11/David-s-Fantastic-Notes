@@ -11,7 +11,8 @@ Welcome to Phase 0 of 3 for the Freezing Undead event.
 - We've taken shelter in our homes and shops, but this constant state of hail won't get any better. I wonder if we'll be able to get out of our houses soon.
 
 ## Development (Planning) (Phase 1)
-- Blizzard gets worse, with spikes of ice forming instead of hail, dealing 1d4 damage per failed DEX save and the outright environment turning into a thick, unbreathable fog (CON Save, failed will induce 1d8 damage per 5 ft movement)
+- Blizzard gets worse, with spikes of ice forming instead of hail (waves happening every 3 in-game hours), dealing 1d4 damage per failed DEX save
+- A thick, unbreathable fog arrives with these waves of ice that travel at 70 ft (CON Save, failed will induce 1d8 damage per turn in the fog)
 - A mysterious castle of magical ice engraved with runes rises in the centre of the city, freezing the river and spreading it towards Thundertree and the rest of Neverwinter forest
 - The river's water cannot be touched or digested as it will deal 1d4 cold damage to any creature that makes these actions
 
@@ -27,9 +28,13 @@ Welcome to Phase 0 of 3 for the Freezing Undead event.
 ## Development (Planning) (Phase 3A)
 - If the beacons had been stopped, the blizzard ceases to exist and the last blue moon arises on the night of success
 - Unless they had made their victory known, no rewards are given but level ups
+	- If their victory was known, they're given a bit of treasure and a reward from the Hall of Justice
+		- These rewards could vary from: platinum, gold, spell scrolls, weapons, food, free accommodation 
 
 ## Development (Planning) (Phase 3B)
 **SPOILERS FROM THIS POINT**
 - An undead archmage arises from the dead in the apex of the magical ice castle, and a bright, green beam beams in the eye of the storm
+	- The reason for the resurrection: The magic being held in Castle Never has released an evil, quite strong magical soul being held captive under a seal, causing a blizzard to arise from the soul's sheer magical power
+	- Why? This archmage died under the conscience of revenge, punishment, and guilt and thinks that this world should be frozen to death and started anew
 - The blizzard is unhabitable unless a torch enchanted with a Cleric's or Paladin's power is used, which clears fog within a 5ft cube
 - It has created a worse fog of sorts, with people without the torch suffering from suffocation and the freezing temperatures (CON save, 1d10, and half if fail)
