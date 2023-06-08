@@ -17,7 +17,7 @@ Welcome to Phase 0 of 3 for the Freezing Undead event.
 - The river's water cannot be touched or digested as it will deal 1d4 cold damage to any creature that makes these actions
 
 ## Development (Planning) (Phase 2)
-- The blizzard has reached the state that anyone who enters it will freeze and be incapacitated if they fail their CON save, otherwise they will take 1d4 cold damage on a success
+- The blizzard has reached the state that anyone who enters it will freeze and be incapacitated if they fail their CON 4 save, otherwise they will take 1d4 cold damage on a success
 - The Young White Dragon returns to Neverwinter in desperation to reach the party for help
 	- If not provoked and asked properly, he explains that there have been mysterious beacons of green light and mist beaming into the sky
 	- If provoked, the dragon leaves in shame and leaves immediately after the first attack
