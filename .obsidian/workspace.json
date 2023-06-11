@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md",
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md",
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md",
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md"
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md"
               }
             }
           },
@@ -314,11 +314,13 @@
   },
   "active": "d6db4d2a727e5dd7",
   "lastOpenFiles": [
+    "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md",
+    "personal/dnd/prototype_destruction/Francis Halcore.md",
+    "personal/dnd/prototype_destruction",
     "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
     "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
     "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
     "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
-    "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md",
     "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
     "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
     "personal/dnd/icespire/dm_notes/Code Blizzard",
@@ -344,7 +346,6 @@
     "personal/dnd/icespire",
     "dev/Handy Tips.md",
     "personal/lasima",
-    "personal/narratives/Meshos, The Series/BK2, Inverted; The Messenger.md",
     "personal/studies/english",
     "school/science",
     "school/maths",
