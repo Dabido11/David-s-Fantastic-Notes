@@ -6,7 +6,7 @@ Information about the castle, good luck ;)
 ### Castle Interior
 The castle includes 3 floors, with 2 floors being above ground and the 1st floor being Ground Floor. The corridors, hallways, and walls are enlaced with traps and poison to scare or drive away adventurers from entering this castle. Adventurers have already explored and inspected the walls, knowing that the runes enchanted on the walls are the spells "Poison Spray" and "Enhance Ability (Bear's Endurance)".
 ### Ground or 1F
-- Encounter level: **Potentially dangerous** "Tread lightly here, and beware of traps."
+- Encounter level: **Trivial** "This should be easy."
 - Challenge rating: 0-1
 On this floor, the party may potentially encounter monsters such as [cultists](https://www.dndbeyond.com/monsters/16835-cultist), [giant bats](https://www.dndbeyond.com/monsters/16875-giant-bat), [giant lizards](https://www.dndbeyond.com/monsters/16887-giant-lizard), [swarm of bats](https://www.dndbeyond.com/monsters/17028-swarm-of-bats), and [zombies](https://www.dndbeyond.com/monsters/17077-zombie).
 While they do face these monsters, they can also come across loot at 
