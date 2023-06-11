@@ -22,21 +22,21 @@ Welcome to the planned 3 Phases for the Freezing Undead event.
 	- If provoked, the dragon leaves in shame and leaves immediately after the first attack
 
 ## Development (Planning) (Phase 2)
-- [ ] Completed
+- [ ] Completed (Day 3-7)
 - The blizzard has reached the state that anyone who enters it will freeze and be incapacitated if they fail their CON 4 save, otherwise they will take 1d4 cold damage on a success
 - If either of these actions have happened, one out of four beacons redirect and shoot light onto a mirror-like device that absorbs light and is mounted on top of the castle
 	- If all beacons unite, the Blizzard turns green and releases acid rain and ??? arises
 	- If they have not united within the past 7 in-game days, the blizzard halts and the castle of ice melts
 
 ## Development (Planning) (Phase 3A)
-- [ ] Completed
+- [ ] Completed (Day 7+)
 - If the beacons had been stopped, the blizzard ceases to exist and the last blue moon arises on the night of success
 - Unless they had made their victory known, no rewards are given but level ups
 	- If their victory was known, they're given a bit of treasure and a reward from the Hall of Justice
 		- These rewards could vary from: platinum, gold, spell scrolls, weapons, food, free accommodation 
 
 ## Development (Planning) (Phase 3B)
-- [ ] Completed
+- [ ] Completed (Day 7+)
 **SPOILERS FROM THIS POINT**
 - An undead archmage arises from the dead in the apex of the magical ice castle, and a bright, green beam beams in the eye of the storm
 	- The reason for the resurrection: The magic being held in Castle Never has released an evil, quite strong magical soul being held captive under a seal, causing a blizzard to arise from the soul's sheer magical power
