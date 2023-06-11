@@ -1,5 +1,5 @@
 # Welcome
-Welcome to Phase 0 of 3 for the Freezing Undead event.
+Welcome to the planned 3 Phases for the Freezing Undead event.
 
 ## Notes
 - The blizzard is only held within the city, not outside
