@@ -5,4 +5,5 @@
 - Statue and wraith attacks Jimin and Phoebe
 - Salmong dies from Swarm Of Spiders (death saves)
 - Animated Armour makes devastating blows on Jimin
-- 
+- Giant spider dies from Maven's massacre attack
+- Wraith is upset from breakup
