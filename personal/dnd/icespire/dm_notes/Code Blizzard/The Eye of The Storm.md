@@ -9,7 +9,8 @@ The castle includes 3 floors, with 2 floors being above ground and the 1st floor
 - Encounter level: **Trivial** "This should be easy."
 - Challenge rating: 0-1
 On this floor, the party may potentially encounter monsters such as [cultists](https://www.dndbeyond.com/monsters/16835-cultist), [giant bats](https://www.dndbeyond.com/monsters/16875-giant-bat), [giant lizards](https://www.dndbeyond.com/monsters/16887-giant-lizard), [swarm of bats](https://www.dndbeyond.com/monsters/17028-swarm-of-bats), and [zombies](https://www.dndbeyond.com/monsters/17077-zombie).
-While they do face these monsters, they can also come across loot at 
+
+- In one room on this floor, there is a magical ice platform that can travel vertically that is powered by a magical aura. It seems to have been shut down for a little bit but still remains hovering after it being shut down. The magical source helping the platform travel is damaged and cannot properly power the elevator. PCs must find a "Necklace of Freezing" that immediately breaks after use but will power the platform for a while (7 days).
 ### 2F
 - Encounter level: **Potentially dangerous** "Tread lightly here, and beware of traps."
 - Challenge rating: 0-4
