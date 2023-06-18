@@ -1,11 +1,11 @@
 {
   "theme": "system",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Primary",
   "translucency": false,
   "monospaceFontFamily": "Cascadia Code",
   "accentColor": "",
-  "interfaceFontFamily": "Karla",
-  "textFontFamily": "Karla",
+  "interfaceFontFamily": "Karla,Rubik",
+  "textFontFamily": "Karla,Rubik",
   "baseFontSize": 16,
   "nativeMenus": false
 }
