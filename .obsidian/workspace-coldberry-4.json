@@ -1,0 +1,353 @@
+{
+  "main": {
+    "id": "966e81824c0d96d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "56f427a03db01c73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46dd67aa85ba59ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Nations/(2) Ashein.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad3db77bba5773b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/studies/science/Synthetic Biology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9a0d5ea4caa5726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f02ed5fdc1ef66c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa07d935c758ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37b5bbe407d7b91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f527d91375b36f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dev/Handy Tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4bf8f265142d2a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/studies/science/Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e2c108dbf601dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/astor/Travels in Astrium/Recap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b05a6fa617d28a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/studies/science/Cells.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ed7b80140791405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/lasima/Halle, Randel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44a18294ec8062e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6db4d2a727e5dd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac4d9fff5db639f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd7dffcc2b414cca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5271e1b88a7bb250",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5396de7f9eab4808",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5006516c7f74d879",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e7444ca674b0c6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ae2fca655e59c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "c52d8f113345c14b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1e315879e32a29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "76dbf3f5d885a161",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "454e4f1d2d4ab5b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9be345040efdf30c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md"
+              }
+            }
+          },
+          {
+            "id": "0d7f77932f0c6342",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d6db4d2a727e5dd7",
+  "lastOpenFiles": [
+    "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
+    "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+    "personal/dnd/icespire/dm_notes/Code Blizzard",
+    "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
+    "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
+    "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
+    "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
+    "personal/dnd/astor/(!) Astor (Index).md",
+    "personal/studies/english/Satellite Boy; Movie Analysis.md",
+    "personal/narratives/Narratives Index.md",
+    "personal/narratives/Meshos, The Series/MS-Index.md",
+    "personal/lasima/Halle, Randel.md",
+    "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md",
+    "personal/dnd/astor/Nations/(5) Uthal.md",
+    "personal/dnd/astor/Nations/(4) Meshos.md",
+    "personal/dnd/astor/Nations/(3) Astrium.md",
+    "personal/dnd/astor/Nations/(2) Ashein.md",
+    "personal/dnd/astor/Nations/(1) Gloria.md",
+    "personal/dnd/astor/A New Day/Recap.md",
+    "personal/dnd/astor/Travels in Astrium/Chapter Planning.md",
+    "personal/dnd/astor/Travels in Astrium/Recap.md",
+    "personal/dnd/icespire/spellcast/Concept Rulebook.md",
+    "personal/dnd/icespire/spellcast/Tables for Spellcast.md",
+    "personal/dnd/icespire/spellcast",
+    "personal/dnd/astor/Travels in Astrium/Statistics.md",
+    "personal/dnd/icespire/dm_notes",
+    "personal/dnd/icespire",
+    "dev/Handy Tips.md",
+    "personal/lasima",
+    "personal/narratives/Meshos, The Series/BK2, Inverted; The Messenger.md",
+    "personal/narratives/Meshos, The Series/recap/Callum.md",
+    "personal/studies/english",
+    "school/science",
+    "school/maths",
+    "school"
+  ]
+}
