@@ -1,6 +1,11 @@
 {
   "primary-ceciliamay@@vault-title__titlebar": false,
   "primary-ceciliamay@@vault-title__file-explorer": true,
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
-  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-maroon"
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-maroon",
+  "title@@vibrant": true,
+  "title@@disable-tooltip-animation": false,
+  "title@@enable-mica": true,
+  "title@@no-top-space": false,
+  "title@@dim-light-mode": false
 }

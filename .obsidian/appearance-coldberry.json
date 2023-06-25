@@ -1,0 +1,11 @@
+{
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "translucency": false,
+  "monospaceFontFamily": "Cascadia Code",
+  "accentColor": "",
+  "interfaceFontFamily": "Karla",
+  "textFontFamily": "Karla",
+  "baseFontSize": 16,
+  "nativeMenus": false
+}
