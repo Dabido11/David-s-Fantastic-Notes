@@ -22,7 +22,7 @@ Welcome to the planned 3 Phases for the Freezing Undead event.
 	- If provoked, the dragon leaves in shame and leaves immediately after the first attack
 
 ## Development (Planning) (Phase 2)
-- [ ] Completed (Day 3-7)
+- [x] Completed (Day 3-7)
 - The blizzard has reached the state that anyone who enters it will freeze and be incapacitated if they fail their CON 4 save, otherwise they will take 1d4 cold damage on a success
 - If either of these actions have happened, one out of four beacons redirect and shoot light onto a mirror-like device that absorbs light and is mounted on top of the castle
 	- If all beacons unite, the Blizzard turns green and releases acid rain and ??? arises
