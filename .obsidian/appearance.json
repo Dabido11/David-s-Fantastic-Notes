@@ -1,9 +1,9 @@
 {
   "theme": "system",
-  "cssTheme": "Material Flat",
+  "cssTheme": "Catppuccin",
   "translucency": false,
   "monospaceFontFamily": "",
-  "accentColor": "#6d6cc1",
+  "accentColor": "#e74c3c",
   "interfaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Cascadia Mono",
   "baseFontSize": 17,
