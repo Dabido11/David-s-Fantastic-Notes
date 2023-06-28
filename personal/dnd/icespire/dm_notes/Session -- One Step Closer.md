@@ -1,2 +1,19 @@
 # Plan Notes
-- 
+- Party enters 2F
+	- Fog covering and obscuring vision when going to the elevator
+	- Fog paralyses anyone who enters with a CON save (DC 13)
+	- Can be cleared using Divination or Fire damage, brute force can be used (DC 14)
+- Successful enter, lockdown happens
+	- There is no light, and torches or darkvision is required
+	- Everything is eerily silent except their footsteps
+	- The pool surrounding the platform has frozen statues around it
+	- Traps surround the floor, no cracked ice
+		- Trap #1: Sound Sensor --> When the party encounters a Nothic's dead body, it detects sound within a 25ft radius
+			- If the party makes any sound like footsteps, it will activate and summon a Nothic through conjuration magic with half the health and half the damage
+			- A field of force knocks back any person 5 ft within it initially (DEX save, DC 5)
+		- Trap #2: Poison Trap --> There are pressure plates around the area that will activate a device that creates poisonous fog for 15 seconds within a 15 ft, to survive, you will need to do a CON save (DC 12) (1d8 or half for success)
+			- The device is always above the pressure plate
+		- Trap #3: Bear Trap --> Simple bear trap, if anyone steps on it, DEX save (DC 8) they take 1d4+2 damage
+		- Trap #4: Rise of The Minotaur --> Minotaur but with blindness/deafness spell (submerged in pool)
+- Commoners are trapped in a room, surrounded by an invisible magical barrier that can be broken by any fire spell or brute force (DC 14) (6 HP)
+	- If commoners are released, possessed guards are spawned from conjuration magic and targets the person who released the commoners (half health/damage)
