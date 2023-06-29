@@ -149,21 +149,14 @@
                 "file": "personal/dnd/icespire/dm_notes/Session 34+/New Beginnings.md"
               }
             }
-          },
-          {
-            "id": "0d7f77932f0c6342",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {

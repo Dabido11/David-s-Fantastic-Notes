@@ -17,3 +17,15 @@ Mysterious disappearances have occurred within Leilon, an ancient ruin in the Sw
 ## New Hub Location: Medieval Villa
 Located at Bluelake District, a 2nd story villa stands tall with a bar, storage group chest, dining room, and six seperate bedrooms, each with a barrel for storage of food. The villa has a quite rustic design to it, due to it being a medieval building.
 ### Random Encounters
+Here are some encounters that can occur during the night.
+Ask the player to roll a d20, DC 10 triggers an encounter.
+
+|d6|Event|
+|---|---|
+|1|Rat Infestation — Add 1d4 rats to a random place that infests and attacks overtime|
+|2|Completely Stealthy Break-In — Add 1d4 bandits that attack the people in the house and breaks it slowly|
+|3|Rise of The Undead — Add 1d4 Zombies that haunt and break down the door of the house|
+|4|Is that Santa? — Add d10+2 sp in the storage chest.|
+|5|Shooting Star — Awakens a random player and a shooting star that gives 1 gp in their hands if they make a wish, is seen from outside the window, long rest effects are still available|
+|6|Blue Moon — Heal all players an extra hit die for the duration of the night|
+
