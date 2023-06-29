@@ -158,8 +158,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,13 +175,14 @@
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
       "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "a2f06e6bd2d20a31",
   "lastOpenFiles": [
-    "personal/dnd/icespire/dm_notes/Session 34+/Untitled.md",
     "personal/dnd/icespire/dm_notes/Session 34+/New Beginnings.md",
+    "personal/dnd/icespire/dm_notes/Session 34+/Untitled.md",
     "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md",
     "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/Mysterious Statue.md",
     "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/Freezing Undead.md",

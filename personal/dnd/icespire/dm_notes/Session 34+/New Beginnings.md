@@ -17,9 +17,3 @@ Mysterious disappearances have occurred within Leilon, an ancient ruin in the Sw
 ## New Hub Location: Medieval Villa
 Located at Bluelake District, a 2nd story villa stands tall with a bar, storage group chest, dining room, and six seperate bedrooms, each with a barrel for storage of food. The villa has a quite rustic design to it, due to it being a medieval building.
 ### Random Encounters
-| d12 | Encounter                                                                  |
-| --- | -------------------------------------------------------------------------- |
-| 1   | Rat Infestation: Roll 1d4 and spawn rats                                   |
-| 2   | Leaking Beer Keg: Smell is intoxicating, CON Save DC 14 or take 1d4 damage |
-|     |                                                                            |
-
