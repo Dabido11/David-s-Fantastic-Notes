@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+                "file": "personal/dnd/icespire/dm_notes/Session 34+/New Beginnings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2f06e6bd2d20a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+                "file": "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
+                "file": "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md"
+                "file": "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md"
               }
             }
           },
@@ -167,16 +180,20 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5919e6a7a5094eb6",
+  "active": "a2f06e6bd2d20a31",
   "lastOpenFiles": [
-    "personal/dnd/icespire/dm_notes/Code Blizzard/Mysterious Statue.md",
-    "personal/dnd/icespire/dm_notes/Code Blizzard/The Eye of The Storm.md",
-    "personal/dnd/icespire/dm_notes/Development Pre-Session.md",
-    "personal/dnd/icespire/dm_notes/Code Blizzard/Freezing Undead.md",
-    "personal/dnd/icespire/dm_notes/Session -- Battles & Mischief.md",
-    "personal/dnd/icespire/dm_notes/Session -- Bugs and Battles.md",
-    "personal/dnd/icespire/dm_notes/Session -- One Step Closer.md",
-    "personal/dnd/icespire/dm_notes/Session -- Thieves & Mysteries.md",
+    "personal/dnd/icespire/dm_notes/Session 34+/New Beginnings.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/Mysterious Statue.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard/Freezing Undead.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Development Pre-Session.md",
+    "personal/dnd/icespire/dm_notes/Session 34+",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Session -- Battles & Mischief.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Untitled",
+    "personal/dnd/icespire/dm_notes/Session 1-33",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Session -- Bugs and Battles.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Session -- One Step Closer.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Session -- Thieves & Mysteries.md",
     "personal/dnd/astor/Nations/(2) Ashein.md",
     "personal/studies/science/Synthetic Biology.md",
     "personal/dnd/astor/Travels in Astrium/Statistics.md",
@@ -185,25 +202,21 @@
     "dev/Handy Tips.md",
     "personal/studies/science/Cells.md",
     "personal/lasima/Halle, Randel.md",
-    "personal/dnd/icespire/dm_notes/Session -- Conquest for An Orc's Death.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Session -- Conquest for An Orc's Death.md",
     "personal/dnd/prototype_destruction/Francis Halcore.md",
     "personal/dnd/prototype_destruction",
-    "personal/dnd/icespire/dm_notes/Session -- Justice is Proven.md",
-    "personal/dnd/icespire/dm_notes/Code Blizzard",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Session -- Justice is Proven.md",
+    "personal/dnd/icespire/dm_notes/Session 1-33/Code Blizzard",
     "personal/dnd/astor/(!) Astor (Index).md",
     "personal/studies/english/Satellite Boy; Movie Analysis.md",
     "personal/narratives/Narratives Index.md",
     "personal/narratives/Meshos, The Series/MS-Index.md",
     "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Evanor, the Berserker.md",
     "personal/dnd/astor/Nations/(5) Uthal.md",
-    "personal/dnd/astor/Nations/(4) Meshos.md",
     "personal/dnd/icespire/spellcast",
     "personal/dnd/icespire/dm_notes",
     "personal/dnd/icespire",
     "personal/lasima",
-    "personal/studies/english",
-    "school/science",
-    "school/maths",
-    "school"
+    "personal/studies/english"
   ]
 }
