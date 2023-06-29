@@ -9,8 +9,8 @@ It states on the quest board that finding the location of this temple will give 
 ## Remnants of Evil
 After the recent events, beacons of the Necromancer's evil still operates but have decreased in power due to their death. Adventurers around the Sword Coast have created and duplicated maps of the locations of these beacons and can be claimed from the Town Hall.
 
-Refer to [[The Eye of The Storm]] for the beacons' locations. Each beacon is a mini-dungeon with 1 floor with varying traps and monsters. Depends on which beacon it is. Destroying each beacon and reporting to the Mayor will award you 50 gp per beacon destroyed.
+Refer to [[The Eye of The Storm]] for the beacons' locations. Each beacon is a tower that has varying monsters and traps lurking. Destroying each beacon and reporting to the Mayor will award you 50 gp per beacon destroyed.
 
 ## Lost Tomb of The Dragonslayer
-Mysterious disappearances have occurred within Thun
+Mysterious disappearances have occurred within Leilon, an ancient ruin in the Sword Coast. 
 
