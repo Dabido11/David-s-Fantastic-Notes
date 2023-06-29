@@ -2,10 +2,10 @@
   "theme": "system",
   "cssTheme": "Catppuccin",
   "translucency": false,
-  "monospaceFontFamily": "",
+  "monospaceFontFamily": "Cascadia Code",
   "accentColor": "#e74c3c",
-  "interfaceFontFamily": "Cascadia Mono",
-  "textFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Karla,Cascadia Mono",
+  "textFontFamily": "Karla,Cascadia Mono",
   "baseFontSize": 17,
   "nativeMenus": false,
   "baseFontSizeAction": true
