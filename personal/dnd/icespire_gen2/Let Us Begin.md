@@ -9,7 +9,7 @@
 ## Presence
 Now we've gone through the context, what's going on now?
 
-> At a lovely night in the Kingsworth Tavern, a celebration is hosted for 
+> At a lovely night in the Kingsworth Tavern, a celebration is hosted for the opening of this brand new tavern. All items are at a 80% discount, as well as services. Of course, to celebrate the tavern's opening, you have all gathered here to have a drink and feast! However, a strange roaring occurs outside
 
 ### Quests
 To claim these quests, go to the Astrium S&J (Services & Jobs) Hall and look at the quest board. Quests are typically posted by guilds or fellow adventurers.
