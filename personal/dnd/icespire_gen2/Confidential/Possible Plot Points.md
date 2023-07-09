@@ -14,7 +14,7 @@
 			- If they kill the goblin, it summons a shadow that has 1d4+2 (3) HP
 	- After the information they have been given, they receive 10 GP for each person as a reward for the information / killing the goblin
 	- They are given a new quest to find who is responsible for these attacks outside of the magical barrier that hides them from the real world
-- Alchemist Detour (Q2 (A))
+- Alchemist Detour (Q2)
 	- An alchemy shopkeeper looks for the people responsible for the search party
 	- They inform them about how they could be able to find the cure to the abyssal disease
 		- They are informed that they can create a potion that can remove the abyssal layer that sticks to their mind, soul, and physical body

@@ -1,6 +1,7 @@
-# Renewal
+# Renewal (Session 1)
 ## Context
-> After the calamity (0 CT), everything went as normal and society lived on. However, on one unknown trip (4 CT) through the discovery of Wave Echo Cave, a rupture occurred causing many dwarven, elven, and human workers to fall deep into the cave. This spiralled into a butterfly effect in which there were multiple earthquakes in Phandalin, causing the actual village to fall down into the ground as well as the Dragon's Lair. Dark beams were shot in the bright daylight as it created pulses of energy that revived the dead commoners. A wave of what seemed to be abyssal undead ravaged through the land and tainted its blood on normal commoners to infect and increase their numbers.
+When everything has been sorted, introduce the session by reading the text below.
+> After the calamity (0 CT), everything went as normal and society lived on. However, on one unknown trip (4 CT) through the rediscovery of Wave Echo Cave, a rupture occurred causing many dwarven, elven, and human workers to fall deep into the cave. This spiralled into a butterfly effect in which there were multiple earthquakes in Phandalin, causing the actual village to fall down into the ground as well as the Dragon's Lair. Dark beams were shot in the bright daylight as it created pulses of energy that revived the dead commoners. A wave of what seemed to be abyssal undead ravaged through the land and tainted its blood on normal commoners to infect and increase their numbers.
 > 
 > The commoners who were informed and caught on to the infection quickly escaped through the gates in Neverwinter where the undead had not found them and rushed to nearby cities that were not infected yet. A city called Astrium was established in The Lurkwood, which is covered in invisibility barriers and sorts of magic that would make this city hidden. News spread and refugees of the late Neverwinter and Lionshields have discovered and travelled to Astrium.
 > 
@@ -11,12 +12,17 @@ Now we've gone through the context, what's going on now?
 
 > At a lovely night in the Kingsworth Tavern, a celebration is hosted for the opening of this brand new tavern. All items are at a 80% discount, as well as services. Of course, to celebrate the tavern's opening, you have all gathered here to have a drink and feast! However, a strange roaring occurs outside and some commoners decided to check it out. An hour later, they have not returned since they left. Everyone has been wondering what has happened, but no one seems to know.
 > 
-> On the next morning, a search party job has been established for the reward of 20 gp to each person within the party. If they can find the whereabouts and search for the location of the missing commoners, they may receive this reward and any loot that is found may be kept. Looking for gold and out of kindness, all of you enlist in the search party and you now find yourself in a wagon with a horse.
+> On the next morning, a search party job has been established by Sir Lupin Deepfrost for the reward of 20 gp to each person within the party. If they can find the whereabouts and search for the location of the missing commoners, they may receive this reward and any loot that is found may be kept. Looking for gold and out of kindness, all of you enlist in the search party and you all now find yourself in a wagon with a horse.
 
 ### Search for Disappearances
 Let the characters introduce themselves on the wagon before you continue with the next encounter.
 
 > The trip is quite nice and windy, until an arrow starts flying and hurling towards one of the two horses driving the wagon. An arrow, enlaced in blue fire hits its head and dissolves just after. The driver is startled and brings out their short sword to investigate where the arrow came from. Just a minute after, they let out a scream and they are nowhere to be found. A trail of footsteps on the slightly muddy dirt can be seen.
+
+#### I'd like to investigate
+If the players decide to investigate the footsteps and follow it, read the blurb below.
+
+> 
 
 ### Quest Board
 To claim these quests, go to the Astrium S&J (Services & Jobs) Hall and look at the quest board. Quests are typically posted by guilds or fellow adventurers.
