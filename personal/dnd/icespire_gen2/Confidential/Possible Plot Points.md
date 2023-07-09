@@ -8,7 +8,7 @@
 		- No trace of any other footsteps other than the rotting corpse
 	- After ambush, players can decide whether to retreat or search the area
 		- If they retreat, they must inform about the ambush and the hiring worker (Sir Lupin Deepfrost) will give them another quest
-		- If they search the area, a goblin enlaced with abyssal energy (+2 AC) can be seen running away with 35 ft speed
+		- If they search the area, a goblin enlaced with abyssal energy (+2 AC) can be seen running away
 			- If they decide to chase the goblin, follow Chase rules
 			- If they decide to leave the goblin alone, follow retreat scenario
 			- If they kill the goblin, it summons a shadow that has 1d4+2 (3) HP
@@ -17,6 +17,9 @@
 - Alchemist Detour (Q2 (A))
 	- An alchemy shopkeeper looks for the people responsible for the search party
 	- They inform them about how they could be able to find the cure to the abyssal disease
+		- They are informed that they can create a potion that can remove the abyssal layer that sticks to their mind, soul, and physical body
+		- It may be able to be enlaced on weapons, armour, or items
+			- First, you would need to find a plant that resembles a dragonfruit 
 
 ## Major Plot Points
 - The cure (Celestial Potion of Everlasting Flames) for the abyssal disease can only be created and a specific plant, magical item, grimoire, and divination magic to activate it
