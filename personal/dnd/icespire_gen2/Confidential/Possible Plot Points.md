@@ -16,7 +16,11 @@
 	- They are given a new quest to find who is responsible for these attacks outside of the magical barrier that hides them from the real world
 - In Search of An Answer (Q1.1)
 	- Search party is given a task by Sir Lupin Deepfrost to consult fellow organisations and see who's responsible
-		- 
+		- Consult The Chill Tower's leader, Ardenor Crush, a mercenary hobgoblin that has been suspected of recruiting a necromancer to do their work
+			- If intimidated, start combat encounter with [Icicles](https://forgottenrealms.fandom.com/wiki/Chill) ambushing the party from above
+			- If persuaded, he states that he is not involved with 
+		- Consult the Astrium's Sorcery & Wizardry Guild's leader, Augustus Trevor, a once powerful human spellcaster that has been suspected of creating cursed weapons that can petrify a person
+		- Consult Vintner's Keep's bartender, Mistique Blue, a dwarven expert at fine drinks, who has been suspected of creating potions for this unknown army of creatures
 
 - Alchemist Detour (Q2)
 	- An alchemy shopkeeper looks for the people responsible for the search party
