@@ -15,6 +15,8 @@
 	- After the information they have been given, they receive 10 GP for each person as a reward for the information / killing the goblin
 	- They are given a new quest to find who is responsible for these attacks outside of the magical barrier that hides them from the real world
 - In Search of An Answer (Q1.1)
+	- Search party is given a task by Sir Lupin Deepfrost to consult fellow organisations and see who's responsible
+		- 
 
 - Alchemist Detour (Q2)
 	- An alchemy shopkeeper looks for the people responsible for the search party
