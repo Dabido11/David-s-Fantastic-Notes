@@ -18,31 +18,20 @@ Now we've gone through the context, what's going on now?
 ### Search for Disappearances
 Let the characters introduce themselves on the wagon before you continue with the next encounter.
 
-> The trip is quite nice and windy, until an arrow starts flying and hurling towards one of the two horses driving the wagon. An arrow, enlaced in blue fire hits its head and dissolves just after. The driver is startled and brings out their short sword to investigate where the arrow came from. Just a minute after, they let out a scream and they are nowhere to be found. A trail of footsteps on the slightly muddy dirt can be seen.
+> The trip is quite nice and windy, until an arrow starts flying and hurling towards one of the two horses driving the wagon. An arrow, enlaced in blue fire hits its head and dissolves just after. The coachman is startled and brings out their short sword to investigate where the arrow came from. Just a minute after, they let out a scream and they are nowhere to be found. A trail of footsteps on the slightly muddy dirt can be seen.
 
-#### I'd like to investigate
+#### I'd like to investigate the footstep trail
 If the players decide to investigate the footsteps and follow it, read the blurb below.
 
-> 
+> As you follow the footsteps of what you believe is the coachman, the trail ends at a dead human dwarven corpse. It seems to be rotting and an arrow with blue flames can be seen on his head. The arrow seems to be slowly dissolving and immediately turns the corpse into stone. Immediately, an arrow starts hurling towards one of your party members. Four goblins that seem to have a sort of slime-like, blue malice is covering their entire body and the malice on their torso resembles a breastplate.
 
-### Quest Board
-To claim these quests, go to the Astrium S&J (Services & Jobs) Hall and look at the quest board. Quests are typically posted by guilds or fellow adventurers.
+Complete the combat encounter, then refer to the next few blurbs.
 
-#### Lost Tomb of The Dragonslayer (Recommended for Level 6+)
-Mysterious disappearances have occurred within Leilon, an ancient ruin in the Sword Coast. No one dares to enter this place due to it being a hotspot for monsters and abyssal creatures, but a powerful greatsword that was soon lost in a dungeon has been located in this ruin only months ago. There has been no record of any adventurers surviving the insides of the tomb, but scouts have gone through the exterior of the tomb to find some more intricate details.
+> You all valiantly defeat the goblins that have ambushed and attacked you, but one seems to retreat and decides to run away from the scene.
 
-*Aim.* To find an ancient greatsword locked within a tomb in the Leilon ruins.
-*Reward.* 1000 gp for the submission of the greatsword, 100 gp for finding the greatsword.
+### Reporting Back to Sir Deepfrost
+The party reports back to Sir Lupin Deepfrost.
 
-#### Remnants of Evil (Recommended for Level 8+)
-Although it has been 13 long years, the beacons of the late Sormin, The Necromancer, are still in operation and are too dangerous to deactivate without magic. Of course, normal adventurers have tried and that didn't turn out well. Due to the incident and quakes, most of the beacons have broken down naturally but one still remains. This beacon has been amplifying the abyssal infection from Wave Echo Cave, a long lost forge of magical items.
+> "I see, you were ambushed by goblins but they had looked odd. Yes, I have noticed those infiltrating our city and we were trying to resolve the problem but we have had a minor setback. The goblins have grown stronger and stronger every day, with weapons that seem to be getting upgraded further and further. Thank you for the information, and I will give you all a reward for this." He hands a pouch filled with (10 x Party Members) gp.
 
-With the forge now being infected and run over by abyssal undead, it seems like magical items have become quite exotic in these times. Spellcasters have tried to search every way to find new magical items but most are cursed by spirits or tainted by abyssal powers.
-
-*Aim.* To destroy the lost but operating beacon in the Cavity of Necrotic Phandalin.
-*Reward.* 300 gp per person involved in the destruction, 20 gp per person initial reward for finding its location.
-
-#### Errands (Side Quests, Any Level)
-Commoners tend to ask adventurers to run errands for them since it would help them in their everyday life. Things such as transporting goods, fighting off thieves, and destroying nests of harmful creatures can be rewarded and commended for an easy **50 cp to 25 gp**. However, the more errands they accept and do, the harder the errands get, as well as the rewards.
-
-There may be special errands that connect to each other but give a multiplied amount of gold. Shopkeepers and organisations may look for adventurers who can complete tasks quick, concise, and easily. Some errands may also be time-limited, meaning that taking too long to complete the quest may give them less rewards, while completing it early will give them more.
+> "Please report to me if there are any more sightings of this goblin problem. It has been affecting our city for quite a while now. I will give you a task sooner or later so please come back when you receive a letter from a messenger. Have a lovely day." He states this and creates a door that transports them to outside of the Astrium S&J Hall.

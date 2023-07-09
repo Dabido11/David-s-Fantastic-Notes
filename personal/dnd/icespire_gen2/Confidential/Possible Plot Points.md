@@ -17,10 +17,15 @@
 - In Search of An Answer (Q1.1)
 	- Search party is given a task by Sir Lupin Deepfrost to consult fellow organisations and see who's responsible
 		- Consult The Chill Tower's leader, Ardenor Crush, a mercenary hobgoblin that has been suspected of recruiting a necromancer to do their work
-			- If intimidated, start combat encounter with [Icicles](https://forgottenrealms.fandom.com/wiki/Chill) ambushing the party from above
-			- If persuaded, he states that he is not involved with 
+			- If intimidated, start combat encounter with [Icicles](https://forgottenrealms.fandom.com/wiki/Chill#Divisions) ambushing the party from above
+			- If persuaded, he states that he is not involved with any of the recent attacks
 		- Consult the Astrium's Sorcery & Wizardry Guild's leader, Augustus Trevor, a once powerful human spellcaster that has been suspected of creating cursed weapons that can petrify a person
+			- If intimidated, Augustus admits to creating cursed weapons for an abyssal army of goblins but only because he was forced to since the goblins would infect and kill him if he did not comply
+			- If persuaded, follow the above
 		- Consult Vintner's Keep's bartender, Mistique Blue, a dwarven expert at fine drinks, who has been suspected of creating potions for this unknown army of creatures
+			- If intimidated, Mistique changes into a Tainted Goblinoid and proceeds to attack the party with 2 more Tainted Goblinoids for reinforcements
+			- If persuaded, she admits to the attacks and that she is the one who ran away, but 2 Tainted Goblinoids ambush the party as she also smirks and changes into a Tainted Goblinoid
+			- If killed, two Tainted Goblinoid immediately ambush all commoners in the bar as well as the party
 
 - Alchemist Detour (Q2)
 	- An alchemy shopkeeper looks for the people responsible for the search party
