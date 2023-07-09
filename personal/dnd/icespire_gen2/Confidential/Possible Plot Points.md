@@ -19,7 +19,7 @@
 	- They inform them about how they could be able to find the cure to the abyssal disease
 		- They are informed that they can create a potion that can remove the abyssal layer that sticks to their mind, soul, and physical body
 		- It may be able to be enlaced on weapons, armour, or items
-			- First, you would need to find a plant that resembles a dragonfruit 
+			- First, you would need to find a plant that creates fruit that resembles a dragonfruit
 
 ## Major Plot Points
 - The cure (Celestial Potion of Everlasting Flames) for the abyssal disease can only be created and a specific plant, magical item, grimoire, and divination magic to activate it
