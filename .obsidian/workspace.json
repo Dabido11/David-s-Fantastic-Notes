@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin.md",
+                "file": "personal/dnd/icespire_gen2/Confidential/Possible Plot Points.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin.md",
+                "file": "personal/dnd/icespire_gen2/Confidential/Possible Plot Points.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin.md",
+                "file": "personal/dnd/icespire_gen2/Confidential/Possible Plot Points.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin.md"
+                "file": "personal/dnd/icespire_gen2/Confidential/Possible Plot Points.md"
               }
             }
           }
@@ -174,8 +174,10 @@
   },
   "active": "a2f06e6bd2d20a31",
   "lastOpenFiles": [
-    "personal/dnd/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
     "personal/dnd/icespire_gen2/Let Us Begin.md",
+    "personal/dnd/icespire_gen2/Confidential/Possible Plot Points.md",
+    "personal/dnd/icespire_gen2/Confidential",
+    "personal/dnd/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
     "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/icespire_gen2",
     "personal/dnd/icespire_gen1/Untitled",
@@ -204,11 +206,9 @@
     "personal/dnd/icespire/dm_notes/Session 1-33/Untitled",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- Bugs and Battles.md",
-    "personal/dnd/astor/Travels in Astrium/Statistics.md",
     "personal/dnd/prototype_destruction",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard",
     "personal/dnd/icespire_gen1/spellcast",
-    "personal/dnd/icespire_gen1/dm_notes",
-    "personal/dnd/icespire_gen1"
+    "personal/dnd/icespire_gen1/dm_notes"
   ]
 }
