@@ -14,12 +14,16 @@
 			- If they kill the goblin, it summons a shadow that has 1d4+2 (3) HP
 	- After the information they have been given, they receive 10 GP for each person as a reward for the information / killing the goblin
 	- They are given a new quest to find who is responsible for these attacks outside of the magical barrier that hides them from the real world
+- In Search of An Answer (Q1.1)
+
 - Alchemist Detour (Q2)
 	- An alchemy shopkeeper looks for the people responsible for the search party
 	- They inform them about how they could be able to find the cure to the abyssal disease
 		- They are informed that they can create a potion that can remove the abyssal layer that sticks to their mind, soul, and physical body
 		- It may be able to be enlaced on weapons, armour, or items
-			- First, you would need to find a plant that creates fruit that resembles a dragonfruit
+			- First, you would need to find a plant that creates fruit that blesses its surroundings
+			- Second, you would need a rather warm scroll that is well-known throughout Wizards' Guilds
+			- Finally, you'll need a grimoire to find the recipe that is known to hold secrets
 
 ## Major Plot Points
 - The cure (Celestial Potion of Everlasting Flames) for the abyssal disease can only be created and a specific plant, magical item, grimoire, and divination magic to activate it

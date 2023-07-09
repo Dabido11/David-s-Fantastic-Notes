@@ -8,6 +8,7 @@ When everything has been sorted, introduce the session by reading the text below
 > Our adventurers today have lived on, but they are in a state of hiding. Will they prolong their stay in a hidden world or discover the lands beyond?
 
 ## Presence
+(If no time, refer to [[Possible Plot Points]].)
 Now we've gone through the context, what's going on now?
 
 > At a lovely night in the Kingsworth Tavern, a celebration is hosted for the opening of this brand new tavern. All items are at a 80% discount, as well as services. Of course, to celebrate the tavern's opening, you have all gathered here to have a drink and feast! However, a strange roaring occurs outside and some commoners decided to check it out. An hour later, they have not returned since they left. Everyone has been wondering what has happened, but no one seems to know.
