@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin (1).md",
+                "file": "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin (1).md",
+                "file": "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin (1).md",
+                "file": "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/icespire_gen2/Let Us Begin (1).md"
+                "file": "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md"
               }
             }
           }
@@ -174,12 +174,17 @@
   },
   "active": "a2f06e6bd2d20a31",
   "lastOpenFiles": [
-    "personal/dnd/icespire_gen2/Continuing On (2).md",
-    "personal/dnd/icespire_gen2/Confidential/Possible Plot Points.md",
-    "personal/dnd/icespire_gen2/Let Us Begin (1).md",
-    "personal/dnd/icespire_gen2/Confidential/Quests.md",
+    "personal/dnd/icespire_gen2/Mainstream/Let Us Begin (1).md",
+    "personal/dnd/icespire_gen2/Mainstream/Continuing On (2).md",
+    "personal/dnd/icespire_gen2/Mainstream/Confidential/Quests.md",
+    "personal/dnd/icespire_gen2/Mainstream/Confidential/Possible Plot Points.md",
+    "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
+    "personal/dnd/icespire_gen2/Sub-Branch",
+    "personal/dnd/icespire_gen2/Mainstream",
+    "personal/Index.md",
+    "personal/narratives/Meshos, The Series/recap/RC-Index.md",
     "personal/dnd/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
-    "personal/dnd/icespire_gen2/Confidential",
+    "personal/dnd/icespire_gen2/Mainstream/Confidential",
     "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/icespire_gen2",
     "personal/dnd/icespire_gen1/Untitled",
@@ -200,15 +205,10 @@
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- One Step Closer.md",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- Thieves & Mysteries.md",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- Conquest for An Orc's Death.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- Battles & Mischief.md",
-    "personal/dnd/icespire/dm_notes/Session 34+/Untitled.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard/The Eye of The Storm.md",
     "personal/dnd/icespire_gen1/dm_notes/Session 34+",
     "personal/dnd/icespire/dm_notes/Session 1-33/Untitled",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33",
     "personal/dnd/prototype_destruction",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard",
-    "personal/dnd/icespire_gen1/spellcast",
-    "personal/dnd/icespire_gen1/dm_notes"
+    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard"
   ]
 }
