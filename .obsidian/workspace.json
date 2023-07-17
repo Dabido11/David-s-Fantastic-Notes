@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2f06e6bd2d20a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
+                "file": "personal/dnd/tainted_revelations/Evermoor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/dnd/tainted_revelations/Evermoor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal/dnd/tainted_revelations/Evermoor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/dnd/tainted_revelations/Evermoor.md"
+              }
             }
           }
         ],
@@ -168,12 +159,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5271e1b88a7bb250",
+  "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
+    "personal/narratives/Narratives Index.md",
+    "personal/dnd/tainted_revelations/Evermoor.md",
+    "personal/dnd/icespire_gen2/Mainstream/Continuing On (2).md",
+    "personal/dnd/tainted_revelations",
+    "personal/dnd/icespire_gen2/Mainstream/Let Us Begin (1).md",
     "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
     "Draft.md",
-    "personal/dnd/icespire_gen2/Mainstream/Let Us Begin (1).md",
-    "personal/dnd/icespire_gen2/Mainstream/Continuing On (2).md",
     "personal/dnd/icespire_gen2/Mainstream/Confidential/Quests.md",
     "personal/dnd/icespire_gen2/Mainstream/Confidential/Possible Plot Points.md",
     "personal/dnd/icespire_gen2/Sub-Branch",
@@ -199,12 +193,9 @@
     "personal/dnd/monmoor/(!) Monmoor (Index).md",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard/Mysterious Statue.md",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard/Freezing Undead.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- One Step Closer.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Session -- Thieves & Mysteries.md",
     "personal/dnd/icespire_gen1/dm_notes/Session 34+",
     "personal/dnd/icespire/dm_notes/Session 1-33/Untitled",
     "personal/dnd/icespire_gen1/dm_notes/Session 1-33",
-    "personal/dnd/prototype_destruction",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard"
+    "personal/dnd/prototype_destruction"
   ]
 }
