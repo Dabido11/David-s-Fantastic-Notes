@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cfdd7937ce986ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Draft.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -184,7 +168,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfdd7937ce986ad1",
+  "active": "5271e1b88a7bb250",
   "lastOpenFiles": [
     "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
     "Draft.md",
