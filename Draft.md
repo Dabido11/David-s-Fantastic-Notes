@@ -1,5 +1,5 @@
 Fire Beast
-(92/107)
+(96/107)
 
 Initiative
 - Quilt - 25
