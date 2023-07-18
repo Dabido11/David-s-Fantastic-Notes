@@ -1,5 +1,10 @@
-Cultist
-- (A) 13/13
-- (B) 14/14
-- (C) 10/10
-- (D) 1/4
+Fire Beast
+()
+
+Initiative
+- Quilt - 25
+- Yamatraz - 17
+- Maven - 13
+- Jack - 7
+- Phoebe - 6
+- Fire Beast - 5
