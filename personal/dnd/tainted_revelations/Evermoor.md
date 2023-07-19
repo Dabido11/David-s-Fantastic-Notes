@@ -1,1 +1,0 @@
-In the world of Evermoor, 5 adventurers arise. 2 have been hired from Robby's Farm to send goods to a nearby city but encounter many monsters along the way. A new discovery of a drought and abyssal rise of monsters have been found lurking nearby, and even raiding the city. These brave adventurers must go on an adventure to seek out on why these are happening.
