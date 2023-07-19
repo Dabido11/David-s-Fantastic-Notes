@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "402b2bb3214dc3de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft.md",
+                "file": "personal/dnd/tainted_revelations/Evermoor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft.md",
+                "file": "personal/dnd/tainted_revelations/Evermoor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft.md"
+                "file": "personal/dnd/tainted_revelations/Evermoor.md"
               }
             }
           }
@@ -172,10 +159,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "402b2bb3214dc3de",
+  "active": "5271e1b88a7bb250",
   "lastOpenFiles": [
-    "personal/dnd/tainted_revelations/Evermoor.md",
     "Draft.md",
+    "personal/dnd/tainted_revelations/Evermoor.md",
     "personal/dnd/monmoor/(!) Monmoor (Index).md",
     "personal/dnd/tainted_revelations/Untitled",
     "personal/narratives/Narratives Index.md",
@@ -186,7 +173,6 @@
     "personal/dnd/tainted_revelations",
     "personal/dnd/icespire_gen2/Mainstream/Let Us Begin (1).md",
     "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
-    "Draft.md",
     "personal/dnd/icespire_gen2/Sub-Branch",
     "personal/dnd/icespire_gen2/Mainstream",
     "personal/narratives/Meshos, The Series/recap/RC-Index.md",
