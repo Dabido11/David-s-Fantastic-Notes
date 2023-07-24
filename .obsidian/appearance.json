@@ -1,9 +1,9 @@
 {
-  "theme": "system",
-  "cssTheme": "Catppuccin",
+  "theme": "obsidian",
+  "cssTheme": "Sanctum",
   "translucency": false,
   "monospaceFontFamily": "Cascadia Code",
-  "accentColor": "#e74c3c",
+  "accentColor": "#5dd1ee",
   "interfaceFontFamily": "Karla,Cascadia Mono",
   "textFontFamily": "Karla,Cascadia Mono",
   "baseFontSize": 17,

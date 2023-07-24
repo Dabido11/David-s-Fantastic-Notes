@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/tainted_revelations/Session - Travelling for A Cure.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/tainted_revelations/Session - Travelling for A Cure.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/tainted_revelations/Session - Travelling for A Cure.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/tainted_revelations/Session - Travelling for A Cure.md"
+                "file": "personal/dnd/homebrew/Arcana Recalls.md"
               }
             }
           }
@@ -161,8 +161,14 @@
   },
   "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
+    "personal/dnd/icespire_gen1/spellcast/Concept Rulebook.md",
+    "personal/dnd/homebrew/Arcana Recalls.md",
+    "personal/dnd/homebrew/Orb of Aldrig.md",
+    "Recording 20230724211705.webm",
+    "personal/dnd/evermoor/Session - Travelling for A Cure.md",
+    "personal/dnd/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
+    "personal/dnd/homebrew",
     "personal/dnd/tainted_revelations/Evermoor.md",
-    "personal/dnd/tainted_revelations/Session - Travelling for A Cure.md",
     "Draft.md",
     "personal/dnd/monmoor/(!) Monmoor (Index).md",
     "personal/dnd/tainted_revelations/Untitled",
@@ -171,13 +177,12 @@
     "personal/dnd/icespire_gen2/Mainstream/Confidential/Possible Plot Points.md",
     "personal/dnd/icespire_gen2/Mainstream/Confidential/Quests.md",
     "personal/dnd/icespire_gen2/Mainstream/Continuing On (2).md",
-    "personal/dnd/tainted_revelations",
+    "personal/dnd/evermoor",
     "personal/dnd/icespire_gen2/Mainstream/Let Us Begin (1).md",
     "personal/dnd/icespire_gen2/Sub-Branch/Route 1.md",
     "personal/dnd/icespire_gen2/Sub-Branch",
     "personal/dnd/icespire_gen2/Mainstream",
     "personal/narratives/Meshos, The Series/recap/RC-Index.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
     "personal/dnd/icespire_gen2/Mainstream/Confidential",
     "personal/dnd/astor/Nations/(1) Gloria.md",
     "personal/dnd/icespire_gen2",
@@ -191,11 +196,6 @@
     "personal/dnd/astor/NPC Stat Blocks/Special Enemies/Kanikuzul, the Sorcerer.md",
     "personal/dnd/astor/NPC Stat Blocks/Special NPCs/Aisha, the Cleric.md",
     "personal/dnd/astor/Nations/(5) Uthal.md",
-    "personal/dnd/astor/(!) Astor (Index).md",
-    "personal/dnd/astor/Nations/(4) Meshos.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33/Code Blizzard/Mysterious Statue.md",
-    "personal/dnd/icespire_gen1/dm_notes/Session 34+",
-    "personal/dnd/icespire/dm_notes/Session 1-33/Untitled",
-    "personal/dnd/icespire_gen1/dm_notes/Session 1-33"
+    "personal/dnd/icespire_gen1/dm_notes/Session 34+"
   ]
 }
