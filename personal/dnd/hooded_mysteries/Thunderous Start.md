@@ -6,10 +6,11 @@ We start off with Jih-wan tied to a rock with the ropes covering his torso. Unfo
 - If no one helps Jih-wan, then two NPCs arrive that free him from his ropes and interrupt the wind-up spell attack
 	- A ranger NPC (Tier 2, Heroes of The Realm) and fighter NPC help the team out
 	- After around 3 rounds, the NPCs die from attacks from Cinderbringer
-- The Cinderbringer is now a rampage after the Soul Stabiliser Crystal has been bound to a shortsword
+- The Cinderbringer is now on a rampage after the Soul Stabiliser Crystal has been bound to a shortsword
 - It retreats away (allow opportunity attacks) and heads further into the Forelan Empire, and no visible trail can be seen
 	- You can find a magical trail with the "Detect Magic" spell
 	- Any tracking spells can be used to find Cinderbringer
+- Orb reforms but has a glowing blue pulse every now and then, there are also multiple cracks within the orb making it unstable
 - A disaster occurs in the Forelan Empire, in which the city is in chaos for how long the party takes
 	- Many houses are on fire, the central area of the kingdom is on lockdown
 	- Only authorised people are allowed in the central grounds

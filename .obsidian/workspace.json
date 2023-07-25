@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md"
+                "file": "personal/dnd/homebrew/Arcana Recalls.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
-    "personal/dnd/prototype_destruction/Francis Halcore.md",
     "personal/dnd/hooded_mysteries/Thunderous Start.md",
+    "personal/dnd/prototype_destruction/Francis Halcore.md",
     "personal/dnd/hooded_mysteries",
     "personal/dnd/homebrew/Arcana Recalls.md",
     "personal/dnd/icespire",
