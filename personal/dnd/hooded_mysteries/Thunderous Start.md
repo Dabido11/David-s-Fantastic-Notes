@@ -13,4 +13,5 @@ We start off with Jih-wan tied to a rock with the ropes covering his torso. Unfo
 - A disaster occurs in the Forelan Empire, in which the city is in chaos for how long the party takes
 	- Many houses are on fire, the central area of the kingdom is on lockdown
 	- Only authorised people are allowed in the central grounds
-	- The king, 
+	- The king, Ash, a fire genasi with Lawful Neutral alignment, greets the party with great urgency
+	- Sightings of the king before Aldrig have been seen recently, terrorising commoners and adventurers
