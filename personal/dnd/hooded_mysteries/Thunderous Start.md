@@ -3,6 +3,7 @@ We start off with Jih-wan tied to a rock with the ropes covering his torso. Unfo
 
 ## Plans
 - Introduction of [[Arcana Recalls]], so this campaign isn't too official on the rules now lol ;)
+- Introduction of [[Improved Critical Hits]], which is way better than the usual critical hits, everyone will like this
 - If no one helps Jih-wan, then two NPCs arrive that free him from his ropes and interrupt the wind-up spell attack
 	- A ranger NPC (Tier 2, Heroes of The Realm) and fighter NPC help the team out
 	- After around 3 rounds, the NPCs die from attacks from Cinderbringer

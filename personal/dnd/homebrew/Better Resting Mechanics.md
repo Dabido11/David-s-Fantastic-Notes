@@ -1,5 +1,5 @@
-> *This is not my house rule and is not unique.*
 # Here's How It Works
+I thought, "Hey, maybe the mechanics of resting in D&D do need some work."
 ## Quotes from Other DMs
 "In order for a player character (PC) to gain benefits of a long rest, they must be in a safe place such as a village, town, city, or other fortified and protected area. They can't just simply sleep on the road and recover to full HP and half their hit dice. This puts a higher importance on Hit Dice resource management and gets them closer to the 6-8 encounters per long rest the original system was designed for."
 -> House DM, https://youtu.be/wkg9GOlIUms?t=108
