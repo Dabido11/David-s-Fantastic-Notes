@@ -17,3 +17,4 @@ We start off with Jih-wan tied to a rock with the ropes covering his torso. Unfo
 	- Only authorised people are allowed in the central grounds
 	- The king, Ash, a fire genasi with Lawful Neutral alignment, greets the party with great urgency
 	- Sightings of the king before Aldrig have been seen recently, terrorising commoners and adventurers
+	- Sightings of a red dragon have been flying through the Forelan Empire and contributing to the fires
