@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md",
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md",
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md",
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/hooded_mysteries/Thunderous Start.md"
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md"
               }
             }
           }
@@ -161,11 +161,15 @@
   },
   "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
+    "personal/dnd/evermoor/Evermoor Overview.md",
+    "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
+    "personal/dnd/evermoor/Plans",
+    "personal/dnd/evermoor/Session - Travelling for A Cure.md",
+    "personal/dnd/evermoor/Plot Points",
+    "personal/dnd/hooded_mysteries/Thunderous Start.md",
     "personal/dnd/homebrew/Arcana Recalls.md",
     "personal/dnd/homebrew/Combat Conditions.md",
     "personal/dnd/homebrew/Better Resting Mechanics.md",
-    "personal/dnd/evermoor/Session - Travelling for A Cure.md",
-    "personal/dnd/hooded_mysteries/Thunderous Start.md",
     "personal/dnd/homebrew/Improved Critical Hits.md",
     "2023-07-26.md",
     "Untitled.canvas",
@@ -192,11 +196,7 @@
     "personal/dnd/icespire_gen2/Sub-Branch",
     "personal/dnd/icespire/icespire_gen2/Mainstream",
     "personal/narratives/Meshos, The Series/recap/RC-Index.md",
-    "personal/dnd/icespire/icespire_gen2/Mainstream/Confidential",
     "personal/dnd/astor/Nations/(1) Gloria.md",
-    "personal/dnd/icespire/icespire_gen2",
-    "personal/dnd/astor/Nations/(2) Ashein.md",
-    "personal/studies/science/Synthetic Biology.md",
-    "personal/studies/science/Cells.md"
+    "personal/dnd/astor/Nations/(2) Ashein.md"
   ]
 }
