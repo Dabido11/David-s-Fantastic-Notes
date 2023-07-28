@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/evermoor/Evermoor Overview.md",
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/evermoor/Evermoor Overview.md",
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/evermoor/Evermoor Overview.md",
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/evermoor/Evermoor Overview.md"
+                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
-    "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
     "personal/dnd/evermoor/Evermoor Overview.md",
+    "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
     "personal/dnd/evermoor/Plans",
     "personal/dnd/evermoor/Session - Travelling for A Cure.md",
     "personal/dnd/evermoor/Plot Points",
