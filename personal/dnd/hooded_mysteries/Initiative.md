@@ -1,8 +1,5 @@
-WAAAA
-
 Scaleface - 19
-Cinderbringer - 18 (30/87, AC 12)
-Sighneth - 17
-NPCs - 14
-Dog eater - 10
-Clay - 6
+Dog eater - 18
+Abyssal Beast - 11
+Sighneth - 8
+Clay - 8
