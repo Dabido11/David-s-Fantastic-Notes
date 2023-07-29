@@ -7,5 +7,6 @@
   "title@@disable-tooltip-animation": false,
   "title@@enable-mica": true,
   "title@@no-top-space": false,
-  "title@@dim-light-mode": false
+  "title@@dim-light-mode": false,
+  "sanctum@@color-accent-rgb-d": "165, 119, 218"
 }

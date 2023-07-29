@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
+                "file": "personal/dnd/homebrew/Arcana Recalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md"
+                "file": "personal/dnd/homebrew/Arcana Recalls.md"
               }
             }
           }
@@ -161,16 +161,16 @@
   },
   "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
-    "personal/dnd/evermoor/Evermoor Overview.md",
-    "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
-    "personal/dnd/evermoor/Plans",
-    "personal/dnd/evermoor/Session - Travelling for A Cure.md",
-    "personal/dnd/evermoor/Plot Points",
-    "personal/dnd/hooded_mysteries/Thunderous Start.md",
-    "personal/dnd/homebrew/Arcana Recalls.md",
     "personal/dnd/homebrew/Combat Conditions.md",
     "personal/dnd/homebrew/Better Resting Mechanics.md",
+    "personal/dnd/homebrew/Arcana Recalls.md",
+    "personal/dnd/evermoor/Evermoor Overview.md",
+    "personal/dnd/evermoor/Session - Travelling for A Cure.md",
+    "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
     "personal/dnd/homebrew/Improved Critical Hits.md",
+    "personal/dnd/hooded_mysteries/Thunderous Start.md",
+    "personal/dnd/evermoor/Plans",
+    "personal/dnd/evermoor/Plot Points",
     "2023-07-26.md",
     "Untitled.canvas",
     "personal/dnd/prototype_destruction/Francis Halcore.md",
