@@ -5,3 +5,4 @@
 - Ewan (Plasmoid, Bard)
 - Marcus (Kenku, Rogue/Cleric, Jack)
 - Mathew (Tabaxi, Rogue/Warlock, Quilt)
+- Arequipa (Thri-kreen, Rogue,)
