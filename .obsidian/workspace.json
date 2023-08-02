@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/homebrew/The Essentials Collective.md",
+                "file": "personal/dnd/evermoor/Characters List.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "personal/dnd/evermoor/Characters List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "personal/dnd/evermoor/Characters List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "personal/dnd/evermoor/Characters List.md"
+              }
             }
           }
         ],
@@ -155,17 +159,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9be345040efdf30c",
+  "active": "5919e6a7a5094eb6",
   "lastOpenFiles": [
+    "personal/dnd/homebrew/Arcana Recalls.md",
+    "personal/dnd/evermoor/Characters List.md",
+    "personal/dnd/evermoor",
     "personal/dnd/homebrew/The Essentials Collective.md",
     "personal/dnd/homebrew/Combat Conditions.md",
     "personal/dnd/homebrew/Better Resting Mechanics.md",
-    "personal/dnd/homebrew/Arcana Recalls.md",
     "personal/dnd/homebrew/Hidden Death Saves.md",
     "personal/dnd/homebrew/Improved Critical Hits.md",
     "personal/dnd/homebrew/Inspiration Point Vote.md",
     "personal/dnd/hooded_mysteries/Initiative.md",
-    "personal/dnd/evermoor/Untitled.md",
     "personal/dnd/evermoor/Session - Travelling for A Cure.md",
     "personal/dnd/evermoor/Evermoor Overview.md",
     "personal/dnd/evermoor/Plot Points/BBEG; Blitz.md",
@@ -190,9 +195,7 @@
     "personal/Index.md",
     "personal/dnd/icespire/icespire_gen2/Mainstream/Confidential/Possible Plot Points.md",
     "personal/dnd/icespire/icespire_gen2/Mainstream/Confidential/Quests.md",
-    "personal/dnd/icespire/icespire_gen2/Mainstream/Continuing On (2).md",
     "personal/dnd/evermoor",
-    "personal/dnd/icespire_gen2/Sub-Branch",
-    "personal/dnd/icespire/icespire_gen2/Mainstream"
+    "personal/dnd/icespire_gen2/Sub-Branch"
   ]
 }
