@@ -5,7 +5,5 @@
   "showLineNumber": false,
   "spellcheck": true,
   "alwaysUpdateLinks": true,
-  "spellcheckLanguages": [
-    "en-GB"
-  ]
+  "spellcheckLanguages": null
 }
