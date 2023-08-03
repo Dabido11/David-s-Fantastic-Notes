@@ -1,0 +1,2 @@
+# Project Initiative
+Project: Initiative is an experimental device created by Seriam Hearthstone, a gnome artificer who resides in Exaton. He has discovered a technology and specific formula to create an infusion with a few materials to create a very, and I mean **VERY** experimental device. 
