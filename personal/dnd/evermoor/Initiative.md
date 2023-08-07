@@ -1,3 +1,5 @@
-One-Eyed Jack - 22
-Vrock - 18
-Quiver of Shadows - 16
+Mord - 21 (II)
+Rivulet - 21 (II)
+One-Eyed Jack - 19 (I)
+Quilt - 17 (II)
+Blitz - 4 (I)
