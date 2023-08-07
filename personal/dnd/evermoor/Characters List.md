@@ -1,6 +1,6 @@
 # List
 (Example: Name (Race, Class, Name))
-- [ ] Arequipa (Thri-kreen, Fighter,)
+- [x] Arequipa (Thri-kreen, Fighter,)
 - [x] Mathew (Tabaxi, Rogue/Warlock, Quilt)
 - [x] Marcus (Kenku, Rogue/Cleric, Jack)
 - [ ] Ewan (Plasmoid, Bard, Yasmin)
