@@ -23,11 +23,9 @@
             "id": "18d2278c5fee8e2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "personal/dnd/evermoor/Initiative.md",
-                "mode": "source",
-                "source": false
+                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/dnd/evermoor/Initiative.md",
+                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/dnd/evermoor/Initiative.md",
+                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/dnd/evermoor/Initiative.md"
+                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png"
               }
             }
           }
@@ -174,8 +172,12 @@
   },
   "active": "18d2278c5fee8e2e",
   "lastOpenFiles": [
-    "personal/dnd/homebrew/The Essentials Collective.md",
+    "personal/tunnel_goons/desert_chambers_of_ice_palm_PlayerVersion.png",
+    "personal/tunnel_goons/desert_chambers_of_ice_palm.png.crdownload",
+    "personal/tunnel_goons/Desert Chambers of Ice Palm.md",
+    "personal/tunnel_goons/desert_chambers_of_ice_palm.png",
     "personal/dnd/evermoor/Initiative.md",
+    "personal/dnd/homebrew/The Essentials Collective.md",
     "personal/dnd/evermoor/Characters List.md",
     "personal/dnd/hooded_mysteries/Initiative.md",
     "personal/dnd/hooded_mysteries/Thunderous Start.md",
@@ -207,9 +209,6 @@
     "personal/dnd/monmoor/(!) Monmoor (Index).md",
     "personal/dnd/tainted_revelations/Untitled",
     "personal/narratives/Narratives Index.md",
-    "personal/Index.md",
-    "personal/dnd/icespire/icespire_gen2/Mainstream/Confidential/Possible Plot Points.md",
-    "personal/dnd/evermoor",
-    "personal/dnd/icespire_gen2/Sub-Branch"
+    "personal/dnd/evermoor"
   ]
 }
