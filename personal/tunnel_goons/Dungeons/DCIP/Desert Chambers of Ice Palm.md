@@ -7,4 +7,4 @@
 4. A corpse of a bard, a spear nearby.
 5. A rear entrance into the chambers.
 6. A ranger. Would like to hire you for a job.
-[Dungeon Seed](https://watabou.github.io/one-page-dungeon/?seed=594658603)
+[Dungeon Seed](https://watabou.github.io/one-page-dungeon/?seed=594658603) [[desert_chambers_of_ice_palm.png]]

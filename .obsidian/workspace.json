@@ -8,29 +8,53 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5919e6a7a5094eb6",
+            "id": "358ea5e924f74b97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/dnd/evermoor/Characters List.md",
+                "file": "personal/tunnel_goons/Dungeons/DCIP/Desert Chambers of Ice Palm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "18d2278c5fee8e2e",
+            "id": "5919e6a7a5094eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/tunnel_goons/Dungeons/DCIP/Desert Chambers of Ice Palm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97ae4dc762c30e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal/tunnel_goons/Dungeons/DCIP/Desert Chambers of Ice Palm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2005925b18cbb2ea",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png"
+                "file": "personal/tunnel_goons/Dungeons/DCIP/desert_chambers_of_ice_palm.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png",
+                "file": "personal/tunnel_goons/Dungeons/DCIP/desert_chambers_of_ice_palm.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png",
+                "file": "personal/tunnel_goons/Dungeons/DCIP/desert_chambers_of_ice_palm.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/tunnel_goons/desert_chambers_of_ice_palm.png"
+                "file": "personal/tunnel_goons/Dungeons/DCIP/desert_chambers_of_ice_palm.png"
               }
             }
           }
@@ -170,15 +194,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18d2278c5fee8e2e",
+  "active": "2005925b18cbb2ea",
   "lastOpenFiles": [
-    "personal/tunnel_goons/desert_chambers_of_ice_palm_PlayerVersion.png",
+    "personal/tunnel_goons/Dungeons/DCIP/Desert Chambers of Ice Palm.md",
+    "personal/tunnel_goons/Dungeons/DCIP/desert_chambers_of_ice_palm.png",
+    "personal/dnd/evermoor/Characters List.md",
+    "personal/tunnel_goons/Dungeons/DCIP/desert_chambers_of_ice_palm_PlayerVersion.png",
+    "personal/tunnel_goons/Dungeons/DCIP",
+    "personal/tunnel_goons/Dungeons",
     "personal/tunnel_goons/desert_chambers_of_ice_palm.png.crdownload",
-    "personal/tunnel_goons/Desert Chambers of Ice Palm.md",
-    "personal/tunnel_goons/desert_chambers_of_ice_palm.png",
     "personal/dnd/evermoor/Initiative.md",
     "personal/dnd/homebrew/The Essentials Collective.md",
-    "personal/dnd/evermoor/Characters List.md",
     "personal/dnd/hooded_mysteries/Initiative.md",
     "personal/dnd/hooded_mysteries/Thunderous Start.md",
     "personal/dnd/homebrew/Arcana Recalls.md",
@@ -207,8 +233,6 @@
     "personal/dnd/tainted_revelations/Evermoor.md",
     "Draft.md",
     "personal/dnd/monmoor/(!) Monmoor (Index).md",
-    "personal/dnd/tainted_revelations/Untitled",
-    "personal/narratives/Narratives Index.md",
-    "personal/dnd/evermoor"
+    "personal/narratives/Narratives Index.md"
   ]
 }
