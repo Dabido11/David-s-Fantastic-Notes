@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dev/Handy Tips.md",
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dev/Handy Tips.md"
+                "file": "personal/dnd/prototype_destruction/Francis Halcore.md"
               }
             }
           }
@@ -159,11 +159,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5271e1b88a7bb250",
+  "active": "358ea5e924f74b97",
   "lastOpenFiles": [
+    "personal/dnd/hooded_mysteries/Initiative.md",
+    "personal/dnd/hooded_mysteries/Thunderous Start.md",
+    "dev/Handy Tips.md",
     "$Temp/Trash",
     "$Temp",
-    "personal/dnd/hooded_mysteries/Thunderous Start.md",
     "personal/tunnel_goons/Dungeons/DCIP/Desert Chambers of Ice Palm.md",
     "personal/dnd/homebrew/Arcana Recalls.md",
     "personal/dnd/homebrew/Better Resting Mechanics.md",
@@ -175,7 +177,6 @@
     "personal/tunnel_goons/desert_chambers_of_ice_palm.png.crdownload",
     "personal/dnd/evermoor/Initiative.md",
     "personal/dnd/homebrew/The Essentials Collective.md",
-    "personal/dnd/hooded_mysteries/Initiative.md",
     "personal/dnd/evermoor/Project Initiative.md",
     "personal/dnd/evermoor",
     "personal/dnd/homebrew/Combat Conditions.md",
@@ -194,7 +195,6 @@
     "personal/dnd/icespire",
     "personal/dnd/icespire/icespire_gen1/spellcast/Concept Rulebook.md",
     "personal/dnd/homebrew/Orb of Aldrig.md",
-    "Recording 20230724211705.webm",
     "personal/dnd/icespire/icespire_gen1/dm_notes/Session 34+/New Beginnings.md",
     "personal/dnd/tainted_revelations/Evermoor.md",
     "Draft.md",
